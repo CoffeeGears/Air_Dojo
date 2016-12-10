@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 8 -->
+<svg x="0" y="0" width="909" height="1286" viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g3_8{
+fill: none;
+stroke: #0000FF;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_8{
+fill: none;
+stroke: #C00000;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_8{
+fill: none;
+stroke: #F79646;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_8{
+fill: none;
+stroke: #000000;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_8{
+fill: #C00000;
+}
+.g1_8{
+fill: #FFFFFF;
+}
+
+.s2_8{
+font-size: 13.75px;
+font-family: Calibri_2e;
+fill: #0000FF;
+}
+.s5_8{
+font-size: 16.81px;
+font-family: Calibri-Bold_2c;
+fill: #000000;
+}
+.s4_8{
+font-size: 16.81px;
+font-family: Calibri_2e;
+fill: #000000;
+}
+.s1_8{
+font-size: 13.75px;
+font-family: Calibri_2e;
+fill: #000000;
+}
+.s3_8{
+font-size: 13.75px;
+font-family: Calibri-Bold_2c;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M140,42l611,0l0,32L140,74Z" class="g1_8" />
+<path d="M140,42l611,0l0,32L140,74Z" class="g2_8" />
+<text 
+x="153" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_8"
+>To print more copies, visit </text>
+
+<text 
+x="301" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_8"
+>http://scratch.coderdojobray.com/ </text>
+
+<text 
+x="501" 
+y="62" 
+dx="0,0,0,0" 
+class="s1_8"
+>and </text>
+
+<text 
+x="525" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_8"
+>Scratch_2.0\Harder</text>
+
+<text 
+x="640" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_8"
+>folder in Dropbox</text>
+
+<path d="M301.5,64.5l197,0" class="g3_8" />
+<text 
+x="478" 
+y="102" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Now add this code to check for motion on your </text>
+
+<text 
+x="478" 
+y="126" 
+dx="0,0,0,0,0,0,0" 
+class="s4_8"
+>webcam:</text>
+
+<text 
+x="478" 
+y="164" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>When motion occurs (e.g. you move), the game will </text>
+
+<text 
+x="478" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>run ‘reset’ and muffins will fall from the top of the </text>
+
+<text 
+x="478" 
+y="212" 
+dx="0,0,0,0,0,0,0,0" 
+class="s4_8"
+>screen. </text>
+
+<text 
+x="478" 
+y="251" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>To get a muffin, point your finger or your hand at it, so </text>
+
+<text 
+x="478" 
+y="274" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>that your movement appears on screen, and keep the </text>
+
+<text 
+x="478" 
+y="298" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>movement going until you get a score. </text>
+
+<text 
+x="748" 
+y="298" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Then another </text>
+
+<text 
+x="478" 
+y="321" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>muffin will appear:</text>
+
+<text 
+x="358" 
+y="399" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>This code penalizes you if any muffins make it to the bottom of the </text>
+
+<text 
+x="358" 
+y="423" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>screen; it also makes those ‘lost muffins’ disappear and a new one falls:</text>
+
+<text 
+x="55" 
+y="656" 
+dx="0,0,0,0,0,0" 
+class="s5_8"
+>Extra:</text>
+
+<path d="M55,659l40,0" class="g4_8" />
+<text 
+x="55" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Experiment with the numbers used to detect motion.</text>
+
+<text 
+x="55" 
+y="734" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Try standing back from your computer and using motion with your arms to get muffins. </text>
+
+<text 
+x="657" 
+y="734" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Make sure you do this safely </text>
+
+<text 
+x="55" 
+y="757" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>and nobody gets hurt!</text>
+
+<text 
+x="55" 
+y="796" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Now use your own ideas to make the game better.</text>
+
+<text 
+x="55" 
+y="835" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Show your finished game to the kids near you and to a mentor.</text>
+
+<text 
+x="55" 
+y="874" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_8"
+>Upload your game to the web (username: coderdojobray; password: brayhead).</text>
+
+<image x="55" y="86" width="410" height="276" xlink:href="8/img/1.png" />
+<image x="58" y="376" width="286" height="227" xlink:href="8/img/2.png" />
+<path d="M475,96l-38,0" class="g5_8" />
+<path fill-rule="evenodd" d="M432.7,96.8l12.6,-7.4l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.1,0.1l0.2,0l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.1l0.1,0.2l0.1,0.1l0,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l0,0.2l-0.1,0.1l-0.1,0.2l-0.1,0.2l-0.2,0.1l-0.1,0.1L447,92.4l-7.5,4.4l7.5,4.4l0.2,0.1l0.2,0.2l0.1,0.1l0.1,0.2l0.1,0.2l0.1,0.1l0,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l-0.1,0.2l0,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.1l-0.2,0.2l-0.2,0.1l-0.1,0l-0.2,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,-0.1l-0.2,0l-0.1,-0.1Z" class="g6_8" />
+<path d="M398,445l-38,0" class="g5_8" />
+<path fill-rule="evenodd" d="M356.5,445.1l12.7,-7.4l0.1,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.1,0.1l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.1l0.1,0.1l0.1,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l0,0.2l0,0.1l-0.1,0.2l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.1l-7.5,4.4l7.5,4.4l0.2,0.1l0.1,0.1l0.1,0.2l0.2,0.2l0.1,0.1l0,0.2l0.1,0.1l0,0.2l0,0.3l0,0.2l0,0.2l0,0.1l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.1l-0.2,0.1l-0.2,0.1l-0.1,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,-0.1l-0.2,-0.1l-0.1,0Z" class="g6_8" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri_2e;
+	src: url("fonts/Calibri_2e.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Bold_2c;
+	src: url("fonts/Calibri-Bold_2c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

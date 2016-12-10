@@ -1,0 +1,331 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 5 -->
+<svg x="0" y="0" width="909" height="1286" viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g6_5{
+fill: none;
+stroke: #C00000;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_5{
+fill: none;
+stroke: #0000FF;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_5{
+fill: none;
+stroke: #F79646;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_5{
+fill: none;
+stroke: #4F81BD;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_5{
+fill: #C00000;
+}
+.g5_5{
+fill: none;
+stroke: #000000;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_5{
+fill: #FFFFFF;
+}
+
+.s5_5{
+font-size: 16.81px;
+font-family: Calibri_1j;
+fill: #000000;
+}
+.s6_5{
+font-size: 16.81px;
+font-family: Calibri-Bold_1h;
+fill: #000000;
+}
+.s2_5{
+font-size: 13.75px;
+font-family: Calibri_1j;
+fill: #0000FF;
+}
+.s1_5{
+font-size: 13.75px;
+font-family: Calibri_1j;
+fill: #000000;
+}
+.s3_5{
+font-size: 13.75px;
+font-family: Calibri-Bold_1h;
+fill: #000000;
+}
+.s4_5{
+font-size: 39.72px;
+font-family: Cambria_1f;
+fill: #17365D;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M140,42l611,0l0,32L140,74Z" class="g1_5" />
+<path d="M140,42l611,0l0,32L140,74Z" class="g2_5" />
+<text 
+x="153" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_5"
+>To print more copies, visit </text>
+
+<text 
+x="301" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_5"
+>http://scratch.coderdojobray.com/ </text>
+
+<text 
+x="501" 
+y="62" 
+dx="0,0,0,0" 
+class="s1_5"
+>and </text>
+
+<text 
+x="525" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_5"
+>Scratch_2.0\Harder</text>
+
+<text 
+x="640" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_5"
+>folder in Dropbox</text>
+
+<path d="M301.5,64.5l197,0" class="g3_5" />
+<text 
+x="55" 
+y="124" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s4_5"
+>Hippo Climbdown</text>
+
+<path d="M52,139l804,0" class="g4_5" />
+<text 
+x="55" 
+y="179" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_5"
+>In this </text>
+
+<text 
+x="100" 
+y="179" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_5"
+>advanced</text>
+
+<text 
+x="171" 
+y="179" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>project, you will make a platform game, in which the sprite can move around, jump and climb, in a </text>
+
+<path d="M100,182l67,0" class="g5_5" />
+<text 
+x="55" 
+y="203" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>way that looks like what happens in the real world, especially including ‘gravity’.</text>
+
+<text 
+x="55" 
+y="242" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Get a costume from the </text>
+
+<text 
+x="55" 
+y="265" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>library: I used a hippo</text>
+
+<image x="55" y="288" width="124" height="57" xlink:href="5/img/1.png" />
+<text 
+x="55" 
+y="380" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>I made the hippo a bit </text>
+
+<text 
+x="55" 
+y="403" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>smaller with this tool:</text>
+
+<text 
+x="55" 
+y="559" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Duplicate the costume into versions pointing right and left</text>
+
+<text 
+x="202" 
+y="675" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Call the costumes ‘right’ and ‘left’</text>
+
+<text 
+x="55" 
+y="792" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Paint a new sprite:</text>
+
+<text 
+x="55" 
+y="870" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>This sprite should take up the full size of the stage. </text>
+
+<text 
+x="55" 
+y="909" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Draw some rectangular ‘steps’ coloured black at various </text>
+
+<text 
+x="55" 
+y="932" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>places on the screen, and a long thin rectangle right at the </text>
+
+<text 
+x="55" 
+y="956" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>bottom that represents the ground. </text>
+
+<text 
+x="306" 
+y="956" 
+dx="0,0,0,0,0" 
+class="s5_5"
+>e.g. </text>
+
+<text 
+x="55" 
+y="1034" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Use this code (‘Script’) to get the new sprite to always be in </text>
+
+<text 
+x="55" 
+y="1057" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>the right position on the stage:</text>
+
+<text 
+x="277" 
+y="1096" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_5"
+>Set up three ‘Data’ variables like</text>
+
+<text 
+x="281" 
+y="1135" 
+dx="0,0,0,0,0" 
+class="s5_5"
+>this:</text>
+
+<image x="240" y="228" width="639" height="190" xlink:href="5/img/2.png" />
+<image x="227" y="585" width="149" height="48" xlink:href="5/img/3.png" />
+<image x="526" y="429" width="307" height="333" xlink:href="5/img/4.png" />
+<image x="55" y="585" width="133" height="149" xlink:href="5/img/5.png" />
+<image x="233" y="778" width="226" height="42" xlink:href="5/img/6.png" />
+<image x="478" y="797" width="355" height="260" xlink:href="5/img/7.png" />
+<image x="521" y="1069" width="133" height="170" xlink:href="5/img/8.png" />
+<image x="62" y="1090" width="201" height="104" xlink:href="5/img/9.png" />
+<path d="M86,565l0,52" class="g6_5" />
+<path fill-rule="evenodd" d="M86.1,621.7L78.7,609.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.1,0.1l0.2,0l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.1l0.1,0.2l4.4,7.5l4.4,-7.5l0.1,-0.2L90.7,607l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.1,0l0.2,0.1l0.2,0.2l0.1,0.1l0.1,0.2l0.1,0.2l0.1,0.1l0,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2L93.5,609l0,0.1Z" class="g7_5" />
+<path d="M187,312l19,0" class="g6_5" />
+<path fill-rule="evenodd" d="M210.7,312.7L198,320.1l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0.1l-0.2,0l-0.2,-0.1l-0.1,0l-0.2,-0.1l-0.2,0L196.1,320L196,319.9l-0.2,-0.1l-0.1,-0.2l0,-0.1l-0.1,-0.2l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.1l0,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.2,-0.2l0.1,0l7.5,-4.5l-7.5,-4.4l-0.2,-0.1L196,308.1l-0.2,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.1l-0.1,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0.1l0.2,0l0.2,0.1l0.1,0.1Z" class="g7_5" />
+<path d="M438,670l46,0" class="g6_5" />
+<path fill-rule="evenodd" d="M488.8,670.4l-12.7,7.4l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.1,0l-0.2,-0.1l-0.2,-0.1l-0.1,-0.1l-0.2,-0.1L474,677.5l-0.2,-0.2l0,-0.1L473.7,677l-0.1,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.1l0.1,-0.2l0,-0.2l0.2,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l7.5,-4.4L474.4,666l-0.2,-0.1l-0.1,-0.1l-0.2,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.1l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0.1l0.2,0L476,663l0.1,0Z" class="g7_5" />
+<path d="M195.1,645.5l28,-10.9" class="g6_5" />
+<path fill-rule="evenodd" d="M227.3,633l-9.2,11.5l-0.1,0.1l-0.2,0.2l-0.1,0.1l-0.2,0.1l-0.2,0l-0.2,0.1l-0.1,0l-0.2,0l-0.2,0l-0.2,0L216.2,645L216,644.9l-0.2,-0.1l-0.1,-0.1l-0.1,-0.1l-0.2,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.1l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.2l0,-0.1l5.5,-6.8l-8.6,-1.4L212.1,634l-0.2,0l-0.2,-0.1l-0.2,-0.1l-0.1,-0.1l-0.2,-0.2l-0.1,-0.1L211,633.2L210.9,633l0,-0.1l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.2l0.1,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.1,0Z" class="g7_5" />
+<path d="M356,951l85,0" class="g6_5" />
+<path fill-rule="evenodd" d="M446.2,951.8l-12.7,7.4l-0.2,0.1l-0.1,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,0L432,959.3l-0.2,-0.1l-0.1,-0.1L431.5,959l-0.1,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2L431,958.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l7.5,-4.4l-7.5,-4.4l-0.2,-0.1l-0.1,-0.1L431.3,947l-0.1,-0.1l-0.1,-0.2L431,946.5l0,-0.1l0,-0.2L430.9,946l0.1,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.1,0Z" class="g7_5" />
+<path d="M159,1077l0,18" class="g6_5" />
+<path fill-rule="evenodd" d="M160,1099.9l-7.4,-12.6l-0.1,-0.2l-0.1,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.1l0.1,-0.2l0,-0.2l0.2,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.1,0l0.2,0.1l0.2,0.1l0.2,0.1l0.1,0.1l0.1,0.2l0.2,0.1l0,0.1l4.5,7.5l4.4,-7.5l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.1,0l0.2,0.1l0.1,0.2l0.2,0.1l0.1,0.2l0.1,0.1l0.1,0.2l0,0.2l0.1,0.2l0,0.2l0,0.2l-0.1,0.2l0,0.2l-0.1,0.1l-0.1,0.2Z" class="g7_5" />
+<path d="M339,1128l160,0" class="g6_5" />
+<path fill-rule="evenodd" d="M504.3,1128.6l-12.7,7.4l-0.2,0.1l-0.1,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,-0.1l-0.2,-0.1l-0.1,-0.1l-0.2,-0.1l-0.1,-0.2l-0.2,-0.1l0,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l-0.1,-0.2l0.1,-0.2l0,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l7.5,-4.4l-7.5,-4.4l-0.2,-0.1l-0.1,-0.1l-0.2,-0.2l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2l0,-0.1l0,-0.2l-0.1,-0.2l0.1,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.1,0Z" class="g7_5" />
+<path d="M375,824l0,28" class="g6_5" />
+<path fill-rule="evenodd" d="M375.7,856.8l-7.4,-12.6L368.2,844l-0.1,-0.2l0,-0.2L368,843.4l0,-0.2l0.1,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.1,0.1l0.2,0l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.1l0,0.2l4.5,7.5l4.4,-7.5l0.1,-0.2l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.1,0l0.2,0.1l0.1,0.2l0.2,0.1l0.1,0.2l0.1,0.2l0.1,0.1l0,0.2l0.1,0.2l0,0.2l0,0.2l-0.1,0.2l0,0.2l-0.1,0.2l-0.1,0.1Z" class="g7_5" />
+<image x="55" y="427" width="170" height="77" xlink:href="5/img/10.png" />
+<path d="M161.8,408.2l0,24.6" class="g6_5" />
+<path fill-rule="evenodd" d="M161.8,437.2l-7.4,-12.6l0,-0.2l-0.1,-0.2L154.2,424l0,-0.2l0,-0.2l0,-0.2l0.1,-0.1l0,-0.2l0.1,-0.2l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.2,0.1l0.1,0.1l0.2,0.1l0.1,0.2l0.2,0.1l0,0.2l4.4,7.5l4.4,-7.5l0.2,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0.1l0.1,0l0.2,0.1l0.1,0.2l0.2,0.1l0.1,0.2l0.1,0.2l0.1,0.1l0,0.2l0,0.2l0.1,0.2l-0.1,0.2l0,0.2l0,0.2l-0.1,0.2l-0.1,0.1Z" class="g7_5" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri-Bold_1h;
+	src: url("fonts/Calibri-Bold_1h.woff") format("woff");
+}
+
+@font-face {
+	font-family: Cambria_1f;
+	src: url("fonts/Cambria_1f.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri_1j;
+	src: url("fonts/Calibri_1j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

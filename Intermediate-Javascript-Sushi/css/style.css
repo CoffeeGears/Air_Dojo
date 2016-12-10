@@ -1,0 +1,32 @@
+#panel {
+    border-style: solid;
+    border-width: 1px;
+    width: 250px;
+    height: 250px;
+    margin-left: 20px;
+}
+
+#magic8ball {
+    position: relative;
+}
+
+#magic8balltext {
+    position:relative;
+    font-size: 12px;
+    color: white;
+    top: 105px;
+    text-align: center;
+
+}
+.ballTextContainer {
+    position:absolute;
+    top:0px;
+    width:250px;
+    height:250px;
+}
+
+.inputBoxContainer {
+    position:absolute;
+    top: 260px;
+}
+

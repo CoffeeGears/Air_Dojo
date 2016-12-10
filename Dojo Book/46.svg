@@ -1,0 +1,958 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 46 -->
+<svg x="0" y="0" width="1645" height="1061" viewBox="0 0 1645 1061" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g7_46{
+fill: #11151D;
+}
+.g2_46{
+fill: #B897C1;
+}
+.g5_46{
+fill: none;
+stroke: #B897C1;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g6_46{
+fill: none;
+stroke: #FFD400;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g9_46{
+fill: none;
+stroke: #11151D;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_46{
+fill: #FFFFFF;
+}
+.g8_46{
+fill: none;
+stroke: #11151D;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g4_46{
+fill: #FFD400;
+}
+.g10_46{
+fill: none;
+stroke: #11151D;
+stroke-width: 3;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-opacity: 0;
+}
+.g1_46{
+fill: #FAAD60;
+}
+
+.s8_46{
+font-size: 15.28px;
+font-family: AndaleMono_1cn;
+fill: #11151D;
+}
+.s10_46{
+font-size: 12.22px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s4_46{
+font-size: 18.33px;
+font-family: Wingdings-Regular_1c4;
+fill: #11151D;
+}
+.s6_46{
+font-size: 21.39px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s3_46{
+font-size: 15.28px;
+font-family: Helvetica-Light_1by;
+fill: #11151D;
+}
+.s9_46{
+font-size: 16.81px;
+font-family: PixelSplitter-Bold_181;
+fill: #FFFFFF;
+}
+.s7_46{
+font-size: 18.33px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s2_46{
+font-size: 91.67px;
+font-family: PixelSplitter-Bold_17x;
+fill: #FFFFFF;
+}
+.s5_46{
+font-size: 15.28px;
+font-family: Helvetica-Bold_1bu;
+fill: #11151D;
+}
+.s1_46{
+font-size: 33.61px;
+font-family: PixelSplitter-Bold_17r;
+fill: #FFFFFF;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1061
+L1645,1061
+L1645,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image x="-33" y="-32" width="1713" height="1115" xlink:href="46/img/1.png" />
+<image x="-13" y="-11" width="1674" height="1073" opacity="0.5" xlink:href="46/img/2.png" />
+<path d="M47,48l0,4l-4,0l0,45l4,0l0,4l595,0l0,-4l4,0l0,-45l-4,0l0,-4Z" class="g1_46" />
+<path d="M876,666l0,11l-11,0l0,101l11,0l0,11l696,0l0,-11l11,0l0,-101l-11,0l0,-11Z" class="g2_46" />
+<path d="M1466,864l0,144l4,0l0,5l109,0l0,-5l4,0l0,-144Z" class="g2_46" />
+<path d="M1466,864l117,0l0,-52l-4,0l0,-4l-109,0l0,4l-4,0Z" class="g3_46" />
+<image x="1483" y="872" width="84" height="84" xlink:href="46/img/3.png" />
+<path d="M47,870l0,4l-4,0l0,88l4,0l0,4l92,0l0,-96Z" class="g4_46" />
+<image x="41" y="874" width="88" height="89" xlink:href="46/img/4.png" />
+<path d="M1202.3,859.8l0,4.6l4.6,0l0,4.6l4.7,0l0,4.7l4.6,0l0,4.6l4.6,0l0,4.6l4.7,0l0,4.7l-4.7,0l-4.6,0l-4.6,0l-4.7,0l-4.6,0l-5.9,-0.1l0,44.7l-4.4,0l0,4.4l-319.2,0l0,-4.4l-4.4,0l0,-117.1l4.4,0l0,-4.3l319.2,0l0,4.3l4.4,0l0,44.7Z" class="g3_46" />
+<path d="M1202.3,859.8l0,4.6l4.6,0l0,4.6l4.7,0l0,4.7l4.6,0l0,4.6l4.6,0l0,4.6l4.7,0l0,4.7l-4.7,0l-4.6,0l-4.6,0l-4.7,0l-4.6,0l-5.9,-0.1l0,44.7l-4.4,0l0,4.4l-319.2,0l0,-4.4l-4.4,0l0,-117.1l4.4,0l0,-4.3l319.2,0l0,4.3l4.4,0l0,44.7l5.9,0Z" class="g5_46" />
+<path d="M142,913l0,83l2,0l2,0l0,2l0,2l451,0l0,-2l0,-2l2,0l2,0l0,-79l-2,0l-2,0l0,-2l0,-2Z" class="g3_46" />
+<path d="M142.5,913.5l0,83l2,0l2,0l0,2l0,2l451,0l0,-2l0,-2l2,0l2,0l0,-79l-2,0l-2,0l0,-2l0,-2l-455,0Z" class="g6_46" />
+<path d="M139,870l0,43l152,0l0,-39l-4,0l0,-4Z" class="g4_46" />
+<path d="M1384,104l0,247l2,0l2,0l0,2l0,2l207,0l0,-2l0,-2l3,0l2,0l0,-242l-2,0l-3,0l0,-2l0,-3Z" class="g3_46" />
+<path d="M1384.5,104.5l0,247l2,0l2,0l0,2l0,2l207,0l0,-2l0,-2l3,0l2,0l0,-242l-2,0l-3,0l0,-2l0,-3l-211,0Z" class="g6_46" />
+<path d="M1289,55l0,4l-4,0l0,88l4,0l0,4l92,0l0,-96Z" class="g4_46" />
+<image x="1283" y="59" width="88" height="89" xlink:href="46/img/5.png" />
+<path d="M1381,55l0,48l152,0l0,-44l-4,0l0,-4Z" class="g4_46" />
+<image x="519" y="116" width="261" height="446" xlink:href="46/img/6.png" />
+<image x="505" y="104" width="288" height="472" style="mix-blend-mode: multiply;" xlink:href="46/img/7.png" />
+<image x="1232" y="792" width="224" height="242" xlink:href="46/img/8.png" />
+<image x="1219" y="782" width="248" height="249" style="mix-blend-mode: multiply;" xlink:href="46/img/9.png" />
+<path d="M47,48l0,4l-4,0l0,45l4,0l0,4l595,0l0,-4l4,0l0,-45l-4,0l0,-4Z" class="g7_46" />
+<text 
+x="60" 
+y="89" 
+dx="0,-3.9,-3.6,-4.3,-4.1,-3.3,-2.8,0,0,-3.2,-2.8,-2.7,0,0,-3.6,-4.1,-3.5,0,0,-2.7,0,0,-3.5,-2.7,0,0,-2.7,-4.5" 
+class="s1_46"
+>Putting your site on the web</text>
+
+<path d="M870,666l0,4l-5,0l0,115l5,0l0,4l709,0l0,-4l4,0l0,-115l-4,0l0,-4Z" class="g7_46" />
+<text 
+x="888" 
+y="764" 
+dx="0,-8.6,-7.5,0,0,-8,0,0,-7.7,-7.3,-7.3,0" 
+class="s2_46"
+>You’re done!</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 128)"
+dx="0,0,0,2.1,0,0,0,2.1,0,0,0,2.1,0,0,0,0,2.1,0,2.1,0,0,0,0,0,0,0,2.1,0,0,0,0,2.1,0,0,0,2.1,0,0,0,0,2.1,0,0,2.1,0,0,0,0,2.1,0,0,2.1,0,0,0,0,2.1,0,0,0" 
+class="s3_46"
+>So far you made a website that can only be seen on your own </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 150)"
+dx="0,0,0,0,0,0,0,0,-1.4,0,0.4,0,0,0,0.4,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0,0,0,0.4,0,0,0.4,0,0.4,0,0,0,0.4,0,0,0,0,0.4,0,0,0.4,0,0,0,0,0.4,0,0,-1.1,0,0.4,0,0.4,0,0,0,0,0.4,0" 
+class="s3_46"
+>computer. But the whole point of a web page is that it’s … well … </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 171)"
+dx="0,0,0,-0.9,0,0,0,-0.9,0,0,0" 
+class="s3_46"
+>on the web.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 214)"
+dx="0,-1.7,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0" 
+class="s3_46"
+>To do this you need to do two things:</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 235)"
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 85, 235)"
+dx="0,-0.3,0,0,0,0,0,0,0,-0.9,0" 
+class="s3_46"
+>register a </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 151, 235)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0" 
+class="s5_46"
+>domain name </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 250, 235)"
+dx="0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>(such as www.nanonauts.com)</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 257)"
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 85, 257)"
+dx="0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0" 
+class="s3_46"
+>copy your site to a </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 208, 257)"
+dx="0,0,0,0,-0.9,0,0,0.1,0,0" 
+class="s5_46"
+>web server</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 290, 257)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0" 
+class="s3_46"
+>linked to the domain</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 299)"
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,-0.5,0,-0.3,0,0,0,0,0" 
+class="s3_46"
+>Then, when someone types your domain name into a web browser </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 321)"
+dx="0,0,0,0,0,1.1,0,-0.3,0,1.1,0,0,0,0,1.1,0,0,1.1,0,0,0,1.1,0,0,0,1.1,0,0,0,0,0,-1.4,0,1.1,0,1.1,0,0,0,1.1,0,0,0,0,0,0,1.1,0,0,1.1,0,0,0,0,1.1,0,1.1,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>they are sent to the web server. A web server is just a computer </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 342)"
+dx="0,0,0,0,0,0,2.2,0,0,0,2.2,0,0,0,0,2.2,0,0,0,0,0,0,0,0,0,2.2,0,0,2.2,0,0,0,2.2,0,0,0,0,0.3,0,0,0,2.2,0,0,0,2.2,0,0,0,0,0,2.2,0,0,0,2.2,0,0,0,0" 
+class="s3_46"
+>which has been connected to the internet and which has been </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 364)"
+dx="0,0,0,0,0.8,0,0,0.8,0,0,0.8,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0.8,0,0,0.8,0,0.8,0,0,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,0.8,0,0,0,0,0,0,0,0.8,0,0,0,0,0,0,0" 
+class="s3_46"
+>set up to send web pages to a computing device (phone, tablet, </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 385)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,-0.3,0,0,0,0,0,0,0,-0.9,0,0,0,0" 
+class="s3_46"
+>laptop and so on) that requests them.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 428)"
+dx="0,0,0,0,0,0,0,0,0,2.8,0,0,0,0,0,0,0,2.8,0,0,0,2.8,0,0,0,0,2.8,0,0,2.8,0,0,0,2.8,0,0,0,0,0,2.8,0,2.8,0,0,0,0,0,0,2.8,0,0,0,0,0,0,0,0,0,0,0,0,2.8,0,0,-1.1,0" 
+class="s3_46"
+>Although setting all this up may sound a little complicated, it’s </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 449)"
+dx="0,0,0,0,0,0,0,0,0,5.3,0,0,0,0,5.3,0,-0.3,0,0,0,0,5.3,0,0,0,0,5.3,0,0,0,0,0,0,0,5.3,0,0,0,5.3,0,0,0,5.3,0,0,0,5.3,0" 
+class="s3_46"
+>actually made pretty easy because you can buy a </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 443, 449)"
+dx="0,0,0,0,0,0,0,0" 
+class="s5_46"
+>hosting </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 471)"
+dx="0,0,0,-0.3,0,-0.1,0.1" 
+class="s5_46"
+>package</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 128, 471)"
+dx="0,0,-0.3,0,0,6.4,0,0,6.4,0,0,0,0,0.3,0,0,0,6.4,0,0,0,0,0,0,0,6.4,0,-0.3,0,0,0,0,0,0,6.4,0,0,0,0,0,0,6.4,0,6.4,0,0,0,0,0,0,0" 
+class="s3_46"
+>from an internet service provider (ISP). A hosting </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 492)"
+dx="0,0,0,0,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,-0.2,-0.3,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,-0.2,0,0,-0.2,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,-0.2,0,0,0,0,0,-0.2,0,0,0" 
+class="s3_46"
+>package lets you rent some space on a web server for a small fee </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 513)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>per month. Then, once you’ve chosen your package, all you need </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 535)"
+dx="0,0,0,-0.4,0,0,-0.4,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,-0.4,0,0,-0.3,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0" 
+class="s3_46"
+>to do is pick your domain name and copy across your web pages. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 556)"
+dx="0,-1.4,0,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0" 
+class="s3_46"
+>You do this using an </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 193, 556)"
+dx="0,0,0,0,-0.9,0,-0.3,0,0,0,0" 
+class="s5_46"
+>FTP program</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 285, 556)"
+dx="0" 
+class="s3_46"
+>.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 599)"
+dx="0,-2.2,-2.3,-2.1,-1.8,0,-0.9,-1.8,0,-0.9,-3.6,-2.2,0,-0.9,-2.4,-1.9,-1.8,-2.1,-1.9,-1.8" 
+class="s6_46"
+>Using an FTP program</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 620)"
+dx="0,0,0,4,0,0,-2,0,4,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,0,4,0,-0.3,0,0,0,0,0,0,0,0,4,0,-0.3,0,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,0,0,0,4,0,0,0,4,0,0,4,0,0,0,0,4,0,0,0,0,0,4,0,0,0,0,0,0,0,4,0,0,0,4,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>An FTP, or 'file transfer protocol', program simply allows you to copy files between two computers </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 642)"
+dx="0,0,0,0,0,0,4.1,0,-0.3,0,4.1,0,0,0,0,0,0,0,0,0,4.1,0,0,4.1,0,0,0,4.1,0,0,0,0,0.3,0,0,0,0,4.1,0,0,4.1,0,0,0,0,-0.3,0,4.1,0,0,0,0,0,0,0,4.1,0,0,0,0,0,4.1,0,-0.3,0,0,4.1,0,0,0,0,4.1,0,0,0,0,0,0,0,0,4.1,0,0,4.1,0,0,0,4.1,0,0,0,4.1,0,0,0,0,0,0" 
+class="s3_46"
+>which are connected to the internet. If you're copying files from your computer to the web server </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 663)"
+dx="0,0,0,0,0,6.5,0,0,6.5,0,0,0,0,0,0" 
+class="s3_46"
+>this is called </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 164, 663)"
+dx="0,0,0,0,0,0,0,0,0" 
+class="s5_46"
+>uploading</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 236, 663)"
+dx="0,0,6.5,0,0,6.5,0,0,0,0,-0.3,0,6.5,0,0,0,0,0,0,0,6.5,0,0,0,0,6.5,0,-0.3,0,0,6.5,0,0,0,6.5,0,0,0,6.5,0,0,0,0,0,0,6.5,0,0,6.5,0,0,0,0,6.5,0,0,0,0,0,0,0,-1.4,0,6.5,0,0,0,0,0" 
+class="s3_46"
+>. If you're copying them from the web server to your computer, often </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 684)"
+dx="0,-0.3,0,0,0,0,-0.3,0,0,3.5,0,0,3.5,0,0,3.5,0,0,0" 
+class="s3_46"
+>referred to as the </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 190, 684)"
+dx="0,0,0,0,0,0,3.5,0,0,-0.1,0,0,0" 
+class="s5_46"
+>local machine</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 292, 684)"
+dx="0,0,3.5,0,0,0,0,3.5,0,0,3.5,0,0,0,0,0,0" 
+class="s3_46"
+>. This is called </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 406, 684)"
+dx="0,0,-0.2,0,0,0,0,0,0,0,0" 
+class="s5_46"
+>downloading</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 499, 684)"
+dx="0,0,3.5,-1.4,0,0,0,-0.3,0,3.5,0,-0.3,0,0,0,0,0,0,3.5,0,0,-0.3,0,0,0,0,3.5,0,0,0,0,0,0,0,0,3.5,0,0,0,0" 
+class="s3_46"
+>. You're probably already familiar with </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 706)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,3.7,0,0,0,0,3.7,0,0,0,0,3.7,0,0,3.7,0,0,0,0,3.7,0,0,0,0,0,0,3.7,0,0,3.7,0,0,3.7,0,0,0,0,3.7,0,0,0,0,0,0,0,0,0,3.7,0,0,0,3.7,0,3.7,0,0,0,0,0,0,0" 
+class="s3_46"
+>downloading: well this is your chance to do some uploading for a change! </text>
+
+<text 
+x="605" 
+y="706" 
+dx="0,0,0,3.7,0,0,0,3.7,0,0,3.7,0,0,0,3.7,0,0,3.7,0,0,0" 
+class="s3_46"
+>So how do you do it? </text>
+
+<text 
+x="58" 
+y="749" 
+dx="0,0,0,0,0,2.1,0,0,0,0,0,0,2.1,0,0,-0.3,0,0,0,0,0,0,2.1,0,0,0,0,2.1,0,0,0,0,0,0,0,2.1,0,0,0,0,0,0,0,0,2.1,0,0,0,0,0,0,2.1,0,0,0,0,2.1,0,0,2.1,0,0,0,0,0,0,0,0,2.1,0,0,0,2.1,0,0,0,0,0,0,0,2.1,0,0,2.1,0,0,0,2.1,0,-0.3,0,0,0,0,0,0" 
+class="s3_46"
+>Once you've purchased your hosting package, you'll need to download and install an FTP program. </text>
+
+<text 
+x="58" 
+y="770" 
+dx="0,0,0.5,0,0,0,0,0.5,0,-0.3,0,0,0.5,0,-0.3,0,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0,0.5,0,0,0,0.5,0,0,0,0.5,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0" 
+class="s3_46"
+>A good free program is Filezilla which you can find at https://filezilla-project.org. Next you'll need the </text>
+
+<text 
+x="752" 
+y="770" 
+dx="0,0,0" 
+class="s5_46"
+>IP </text>
+
+<text 
+x="58" 
+y="791" 
+dx="0,0,-0.1,0,0,0,0" 
+class="s5_46"
+>address</text>
+
+<text 
+x="121" 
+y="791" 
+dx="0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0,0,0,0,0,1.1,0,0,0,1.1,0,1.1,0,0,0,0.3,0,0,0,0,1.1,0,0,0,1.1,0,0,0,0,0,0,-0.3,0,0,1.1,-1.4,0,0,1.1,0,0,0.3,0,0,0,0,0,1.1,0,0,0,1.1,0,0,0,0,1.1,0,0,0,0,0.3,0,0,0,0,0,0,1.1,0,-0.3,0,0,1.1,0,0,0" 
+class="s3_46"
+>of your webserver and a username and password. You normally get this information from the </text>
+
+<text 
+x="58" 
+y="813" 
+dx="0,0,0,0,0,0.3,0,0,0,-0.8,0,0,0,0,0,0,0,-0.8,0,-0.3,0,0,0,0,0,0,-0.8,0,0,0,0,-0.8,0,0,0,-0.8,0,0,-0.3,0,0,0,0,0,-0.8,0,-0.8,0,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0,0,-0.8,0,0,0,-0.8,0,0,-0.8,0,0,0,-0.3,0,0,0,-0.8,0,0,-0.8,0,-0.8,0,0,0,0,-0.8,0,0,0,0,0,0,-0.8,0,0,0,0,0,0,0" 
+class="s3_46"
+>internet service provider when you purchase a hosting package. The IP address is a long number divided </text>
+
+<text 
+x="58" 
+y="834" 
+dx="0,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0.3,0,0,0.8,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0,0.8,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>into four parts by full stops – for example, </text>
+
+<text 
+x="351" 
+y="834" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_46"
+>66.175.209.200</text>
+
+<text 
+x="462" 
+y="834" 
+dx="0,0,0.8,0,0,0,0,0,0.8,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0.8,0,-0.3,0,0,0,0,0,0.8,0,0,0.8,0,0,0,0,0.8,0,0,0,0" 
+class="s3_46"
+>– which allows the FTP program to find your </text>
+
+<text 
+x="58" 
+y="856" 
+dx="0,0,0,0,-0.9,0,0,0,0,0,-1.4" 
+class="s3_46"
+>web server.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 75)"
+dx="0,0,0,0,0,3.5,0,0,0,3.5,0,0,0,0,3.5,0,0,0,3.5,0,0,0,0,0.3,0,0,0,0,0,0,3.5,0,0,0,3.5,0,0,0,3.5,0,0,0,0.3,0,3.5,0,0,0,0,3.5,0,0,0" 
+class="s3_46"
+>Once you have the information you can start your FTP </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 96)"
+dx="0,0,-0.3,0,0,0,0,0,2.9,0,0,0,2.9,0,0,0,0,0,2.9,0,0,0,0,0,0,0,2.9,0,0,2.9,0,0,0,2.9,0,0,0,0,0,0,0,0,2.9,0,0,0,2.9,0,0,0,0,2.9,0,0" 
+class="s3_46"
+>program and enter details of the computer you want to </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 118)"
+dx="0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0,0,0,1.2,0,0,1.2,0,0,0,0,0,1.2,0,0,1.2,0,0,0,1.2,0,0,0,0,0,0,0,1.2,0,0,1.2,0,0,0,0,0,0,0,0,0,1.2,0,0,0,1.2,0,0" 
+class="s3_46"
+>connect to. This is known as the 'host'. In Filezilla you do </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 139)"
+dx="0,0,0,0,-0.9,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>the following</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 182)"
+dx="0,0,0" 
+class="s7_46"
+>1. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 182)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0" 
+class="s3_46"
+>Choose File &gt; Site Manager and click the New Site button.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 225)"
+dx="0,0,0" 
+class="s7_46"
+>2. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 225)"
+dx="0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.8,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>In the left-hand window, give the site a name such as Nanonauts.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 267)"
+dx="0,0,0" 
+class="s7_46"
+>3. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 267)"
+dx="0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.3,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0" 
+class="s3_46"
+>Enter the IP address of the server in the Host box.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 310)"
+dx="0,0,0" 
+class="s7_46"
+>4. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 310)"
+dx="0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0,0.6,0,-0.3,0,0,0,0,0,0,0.6,0,0,0,0,0.6,0,0,0,0.6,0,0.6,0,0,0.3,0,0.6,0,0,0,0,0,-1.4,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0.6,0,0,0,0,0.6,0,0" 
+class="s3_46"
+>If the service provider gave you a port number, you can enter this in </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 332)"
+dx="0,0,0,0,-0.9,0,0,0.3,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-1.4" 
+class="s3_46"
+>the Port field. Usually you would leave this empty.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 374)"
+dx="0,0,0" 
+class="s7_46"
+>5. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 374)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,-0.3,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0.3,0,0,0" 
+class="s3_46"
+>Change the logon type from Anonymous to Normal.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 417)"
+dx="0,0,0" 
+class="s7_46"
+>6. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 417)"
+dx="0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0.3,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,-0.3,0" 
+class="s3_46"
+>Enter the username and password.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 460)"
+dx="0,0,0" 
+class="s7_46"
+>7. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 460)"
+dx="0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0.1,0,0.1,0,0,0,0,0,0,0.1,0,0,0.1,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0,0.1,0,0,0.1,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>Click Connect. After a second or two you should see details of the web server appear in the right-hand </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 481)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-1.4,0" 
+class="s3_46"
+>pane. When you connect to the web server it's important that you upload your files to the correct folder. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 503)"
+dx="0,0,0,0,0,0.2,0,0,0,0,0,0,0.2,0,0,0.2,0,0,0,0,0,0.2,0,0,0.2,0,0,0" 
+class="s3_46"
+>This folder is known as the </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1083, 503)"
+dx="0,0,0,0,0.2,-0.3,0,0" 
+class="s5_46"
+>web root</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1145, 503)"
+dx="0,0,0.2,0,0,0,0.2,0,0,0,0.2,-0.3,0,0,0,0.2,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0.2,0,0,0,0" 
+class="s3_46"
+>. The web root folder should always contain your </text>
+
+<path d="M1480.2,492.7c-0.1,0.2,-0.2,0.3,-0.2,0.6c0,0.2,0.1,0.4,0.2,0.5c0.2,0.2,0.4,0.3,0.6,0.3c0.2,0,0.4,-0.1,0.5,-0.3c0.2,-0.1,0.2,-0.3,0.2,-0.5c0,-0.3,0,-0.5,-0.2,-0.6c-0.1,-0.2,-0.3,-0.2,-0.5,-0.2c-0.2,0,-0.4,0,-0.6,0.2Zm1.1,2.7l-3.4,0l0,1l2.3,0l0,6.8l1.1,0l0,-7.8Z" class="g8_46" />
+<path d="M1492.2,497.8c0,-1.7,-0.7,-2.6,-2.1,-2.6c-0.9,0,-1.8,0.5,-2.6,1.3l0,-1.1l-1.2,0l0,7.8l1.2,0l0,-5.7c0.8,-0.8,1.5,-1.3,2.2,-1.3c0.5,0,0.8,0.2,1.1,0.5c0.2,0.3,0.3,0.8,0.3,1.5l0,5l1.1,0l0,-5.4Z" class="g8_46" />
+<path d="M1501.2,492.6l-1.1,0l0,3.8c-0.6,-0.8,-1.4,-1.2,-2.4,-1.2c-0.8,0,-1.5,0.4,-2.1,1.1c-0.5,0.8,-0.8,1.7,-0.8,2.9c0,1.2,0.3,2.2,0.8,3c0.5,0.8,1.2,1.2,2.1,1.2c0.5,0,0.9,-0.2,1.3,-0.4c0.5,-0.3,0.8,-0.6,1.1,-1l0,1.2l1.1,0l0,-10.6Zm-1.5,8.8c-0.3,0.3,-0.6,0.5,-0.9,0.7c-0.3,0.1,-0.5,0.2,-0.8,0.2c-0.6,0,-1.1,-0.3,-1.4,-0.9c-0.4,-0.5,-0.6,-1.3,-0.6,-2.2c0,-0.8,0.2,-1.6,0.6,-2.1c0.3,-0.6,0.8,-0.9,1.5,-0.9c0.7,0,1.4,0.5,2,1.4l0,3.2c0,0.1,-0.2,0.3,-0.4,0.6Z" class="g8_46" />
+<path d="M1510.5,499c0,-1.2,-0.3,-2.1,-0.9,-2.8c-0.6,-0.7,-1.4,-1,-2.2,-1c-1,0,-1.8,0.4,-2.4,1.1c-0.7,0.7,-1,1.7,-1,3c0,1.2,0.4,2.2,1.1,3c0.7,0.7,1.6,1.1,2.7,1.1c0.9,0,1.7,-0.2,2.4,-0.5L1510,502c-0.8,0.2,-1.5,0.4,-2.2,0.4c-0.7,0,-1.3,-0.3,-1.8,-0.9c-0.5,-0.6,-0.8,-1.3,-0.8,-2.2l5.3,0l0,-0.3Zm-5.2,-0.6c0,-0.7,0.3,-1.2,0.6,-1.6c0.4,-0.4,0.9,-0.6,1.5,-0.6c0.5,0,0.9,0.2,1.3,0.6c0.3,0.5,0.5,1,0.5,1.6l-3.9,0Z" class="g8_46" />
+<path d="M1516.8,499.2l2.7,-3.8l-1.2,0l-2.1,3l-2,-3l-1.4,0l2.8,3.9l-2.8,3.9l1.3,0l2.1,-3.1l2,3.1l1.3,0l-2.7,-4Z" class="g8_46" />
+<path d="M1524.6,501.7c-0.2,0.2,-0.3,0.4,-0.3,0.7c0,0.3,0.1,0.5,0.3,0.7c0.2,0.2,0.4,0.3,0.6,0.3c0.3,0,0.5,-0.1,0.7,-0.3c0.2,-0.2,0.3,-0.4,0.3,-0.7c0,-0.3,-0.1,-0.5,-0.3,-0.7c-0.2,-0.2,-0.4,-0.2,-0.7,-0.2c-0.2,0,-0.4,0,-0.6,0.2Z" class="g8_46" />
+<path d="M1537.3,497.8c0,-1.7,-0.8,-2.6,-2.2,-2.6c-0.9,0,-1.8,0.5,-2.6,1.3l0,-3.9l-1.1,0l0,10.6l1.1,0l0,-5.7c0.8,-0.8,1.6,-1.3,2.3,-1.3c0.4,0,0.8,0.2,1,0.5c0.2,0.3,0.3,0.8,0.3,1.5l0,5l1.2,0l0,-5.4Z" class="g8_46" />
+<path d="M1546.1,501.9c-0.6,0.3,-1.2,0.4,-1.8,0.4c-0.4,0,-0.6,-0.1,-0.9,-0.4c-0.2,-0.2,-0.3,-0.6,-0.3,-1.1l0,-4.4l2.6,0l0,-1l-2.6,0l0,-2.1l-1.1,0l0,2.1l-1.4,0l0,1l1.4,0l0,4.8c0,1.4,0.7,2.2,2.1,2.2c0.7,0,1.5,-0.2,2.2,-0.6l-0.2,-0.9Z" class="g8_46" />
+<path d="M1555.9,497.7c0,-1.7,-0.5,-2.5,-1.4,-2.5c-0.3,0,-0.6,0.1,-0.9,0.4c-0.3,0.2,-0.6,0.6,-0.8,1c-0.1,-0.4,-0.2,-0.8,-0.5,-1c-0.2,-0.3,-0.5,-0.4,-0.8,-0.4c-0.3,0,-0.6,0.1,-0.9,0.4c-0.3,0.2,-0.5,0.6,-0.7,1l0,-1.2l-1.1,0l0,7.8l1.1,0l0,-5.6c0,-0.1,0.1,-0.3,0.4,-0.7c0.3,-0.5,0.5,-0.7,0.8,-0.7c0.4,0,0.6,0.6,0.6,1.9l0,5.1l1.2,0l0,-5.6c0,-0.1,0.1,-0.3,0.4,-0.7c0.3,-0.5,0.5,-0.7,0.7,-0.7c0.5,0,0.7,0.6,0.7,1.9l0,5.1l1.2,0l0,-5.5Z" class="g8_46" />
+<path d="M1563.5,502.5l-2,0l0,-10l-3,0l0,1l2,0l0,10l3,0l0,-1Z" class="g8_46" />
+<text 
+transform="matrix(0.98, 0, 0, 1, 1475, 503)"
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s8_46"
+>index.html</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1570, 503)"
+dx="0,0,0,0,0" 
+class="s3_46"
+>file </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 524)"
+dx="0,0,0,0,-0.9,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,-0.3,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,0,0" 
+class="s3_46"
+>and a copy of all the files and folders used to create your site on your local machine.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 567)"
+dx="0,0,0" 
+class="s7_46"
+>8. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 567)"
+dx="0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,0,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,0,-0.3,0,0,0,0,0,-0.3,0,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,0,0,0,0,0,-0.3,0,0,-0.3,0,0,0,-0.3,0,0,0,-0.3,0,0,0" 
+class="s3_46"
+>In the left-hand pane of Filezilla, copy across all the files in your local copy of the website to the webroot </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 588)"
+dx="0,0,0,0,0,0,-1.4" 
+class="s3_46"
+>folder.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 872, 631)"
+dx="0,0,0" 
+class="s7_46"
+>9. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 900, 631)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.3,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,-0.3,0,0,0,-0.9,0,0,0,0,0,-1.4" 
+class="s3_46"
+>Select all the files and drag them across into the web root folder.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 153, 941)"
+dx="0,0,0,0" 
+class="s5_46"
+>URLs</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 196, 941)"
+dx="0,0,0,0,0,-0.1,0,0,-0.1,0,0,-0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-0.1,0,-0.3,0,-0.1,0,0,0,0,0,0,-0.1,0,0,-0.3,0,-0.1,0,0,0,-0.8,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>such as www.nanonauts.com are simply more user-friendly </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 153, 963)"
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,-0.5,0,0,0,-0.3,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,-0.5,0,0,0,-0.5,0,-0.3,0,0,0,0,0" 
+class="s3_46"
+>versions of IP addresses. In fact a URL simply tells a web browser </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 153, 984)"
+dx="0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,-0.3,0,0,-0.9,0,-0.9,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,-0.9,0,0,0.3,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.3,0,0,0" 
+class="s3_46"
+>to get files from a computer with a particular IP address.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1395, 128)"
+dx="0,0,0,0,4.7,0,0,0,0,4.7,0,0,4.7,0,0,0,4.7,0,0,0,4.7,-0.3,0,0,0" 
+class="s3_46"
+>The name of the web root </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1395, 150)"
+dx="0,0,0,0,0,0,0,6.9,0,0,0,6.9,0,0,0.3,0,6.9,0,-0.3,0,0,6.9,0,0,0" 
+class="s3_46"
+>folder may vary from one </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1395, 171)"
+dx="0,0,0,0,0,0,0,0,2.3,0,0,0,0,0,0,0,2.3,0,0,2.3,0,0,0,0,0,0,-1.4,0" 
+class="s3_46"
+>hosting package to another. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1395, 193)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,0,0" 
+class="s3_46"
+>Common names include:</text>
+
+<text 
+x="1395" 
+y="214" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="214" 
+dx="0,0,0" 
+class="s3_46"
+>www</text>
+
+<text 
+x="1395" 
+y="235" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="235" 
+dx="0,0,0,0,-0.3,0,0" 
+class="s3_46"
+>wwwroot</text>
+
+<text 
+x="1395" 
+y="257" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="257" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_46"
+>httpdocs</text>
+
+<text 
+x="1395" 
+y="278" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="278" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>public_html</text>
+
+<text 
+x="1395" 
+y="299" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="299" 
+dx="0,0,0,0" 
+class="s3_46"
+>html</text>
+
+<text 
+x="1395" 
+y="321" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="321" 
+dx="0,0,0,0,0,0" 
+class="s3_46"
+>public</text>
+
+<text 
+x="1395" 
+y="342" 
+dx="0" 
+class="s4_46"
+>[</text>
+
+<text 
+x="1422" 
+y="342" 
+dx="0,0,0" 
+class="s3_46"
+>web</text>
+
+<text 
+x="144" 
+y="898" 
+dx="0,-2.1,-2.1,-2.9,-1.8,0,0,-2.6,-2.1" 
+class="s6_46"
+>NINJA TIP</text>
+
+<text 
+x="1386" 
+y="86" 
+dx="0,-2.1,-2.1,-2.9,-1.8,0,0,-2.6,-2.1" 
+class="s6_46"
+>NINJA TIP</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 883, 834)"
+dx="0,0,0,0.1,0,0,0.1,0,0,0,0,0.1,0,0,0,0.1,0,-0.3,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0.1,0,0,0.1,0,0,0,0.1,0,0,0" 
+class="s3_46"
+>Go to your web browser and type in the web </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 883, 856)"
+dx="0,0,0,0,-0.3,0,0,0,0.6,0,0,0.6,0,0,0,0,0.6,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0.6,0,0,0,0,0.6,0,0,0" 
+class="s3_46"
+>address of your site. If all has gone well you </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 883, 877)"
+dx="0,0,0,0,0,0,0,4.2,0,0,0,4.2,0,0,0,0,4.2,0,0,0,0,0,0,0,0,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_46"
+>should see your website! Congratulations, </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 883, 898)"
+dx="0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0.8,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0" 
+class="s3_46"
+>you now have your own site up and running </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 883, 920)"
+dx="0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0" 
+class="s3_46"
+>on the web! Let your friends and family know!</text>
+
+<path d="M1472,1011l0,-5l-4,0l0,-43l113,0l0,43l-4,0l0,5Z" class="g7_46" />
+<path d="M1472.5,1011.5l0,-5l-4,0l0,-43l113,0l0,43l-4,0l0,5l-105,0Z" class="g9_46" />
+<path d="M1470.5,991.5l109,0" class="g10_46" />
+<path d="M1470.5,995.5l109,0" class="g10_46" />
+<text 
+x="1470" 
+y="987" 
+dx="0,-1.3,-1.3,-1.4,-2.4,-1.4,-1.6,-1.8,-1.4,0" 
+class="s9_46"
+>worldwide!</text>
+
+<text 
+x="1491" 
+y="834" 
+dx="0,-1.6,-1.7,-1.6,-1.8,0" 
+class="s7_46"
+>Badge </text>
+
+<text 
+x="1474" 
+y="854" 
+dx="0,-1.5,-1.4,-2.5,-1.5,-2.2,-2,-2.4" 
+class="s7_46"
+>unlocked</text>
+
+<path d="M1472.5,810.5l0,5l-4,0l0,191l4,0l0,4l105,0l0,-4l4,0l0,-191l-4,0l0,-5l-105,0Z" class="g9_46" />
+<path d="M1468.5,865.5l113,0l0,-50l-2,0l-2,0l0,-2l0,-2l-105,0l0,2l0,2l-2,0l-2,0l0,50Z" class="g9_46" />
+<text 
+x="1591" 
+y="1019" 
+dx="0,-1.2" 
+class="s10_46"
+>91</text>
+
+<text 
+x="35" 
+y="1019" 
+dx="0,-1.1" 
+class="s10_46"
+>90</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: PixelSplitter-Bold_17r;
+	src: url("fonts/PixelSplitter-Bold_17r.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_181;
+	src: url("fonts/PixelSplitter-Bold_181.woff") format("woff");
+}
+
+@font-face {
+	font-family: AndaleMono_1cn;
+	src: url("fonts/AndaleMono_1cn.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_1by;
+	src: url("fonts/Helvetica-Light_1by.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_17x;
+	src: url("fonts/PixelSplitter-Bold_17x.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_1bs;
+	src: url("fonts/PixelSplitter-Bold_1bs.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Bold_1bu;
+	src: url("fonts/Helvetica-Bold_1bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_1c4;
+	src: url("fonts/Wingdings-Regular_1c4.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

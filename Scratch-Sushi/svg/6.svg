@@ -1,0 +1,376 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 6 -->
+<svg x="0" y="0" width="909" height="1286" viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g3_6{
+fill: none;
+stroke: #0000FF;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_6{
+fill: none;
+stroke: #C00000;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_6{
+fill: none;
+stroke: #F79646;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_6{
+fill: none;
+stroke: #000000;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g6_6{
+fill: #C00000;
+}
+.g1_6{
+fill: #FFFFFF;
+}
+
+.s2_6{
+font-size: 13.75px;
+font-family: Calibri_1j;
+fill: #0000FF;
+}
+.s5_6{
+font-size: 16.81px;
+font-family: Calibri-Bold_1h;
+fill: #000000;
+}
+.s4_6{
+font-size: 16.81px;
+font-family: Calibri_1j;
+fill: #000000;
+}
+.s1_6{
+font-size: 13.75px;
+font-family: Calibri_1j;
+fill: #000000;
+}
+.s3_6{
+font-size: 13.75px;
+font-family: Calibri-Bold_1h;
+fill: #000000;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M140,42l611,0l0,32L140,74Z" class="g1_6" />
+<path d="M140,42l611,0l0,32L140,74Z" class="g2_6" />
+<text 
+x="153" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_6"
+>To print more copies, visit </text>
+
+<text 
+x="301" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_6"
+>http://scratch.coderdojobray.com/ </text>
+
+<text 
+x="501" 
+y="62" 
+dx="0,0,0,0" 
+class="s1_6"
+>and </text>
+
+<text 
+x="525" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_6"
+>Scratch_2.0\Harder</text>
+
+<text 
+x="640" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_6"
+>folder in Dropbox</text>
+
+<path d="M301.5,64.5l197,0" class="g3_6" />
+<text 
+x="368" 
+y="102" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Enter this code for your first sprite (not the steps):</text>
+
+<text 
+x="368" 
+y="141" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Enter this code so the first sprite can move left and right:</text>
+
+<text 
+x="368" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Now play the game. </text>
+
+<text 
+x="368" 
+y="381" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>You should see that your sprite can move when you press the left and </text>
+
+<text 
+x="368" 
+y="405" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>right arrow keys. </text>
+
+<text 
+x="55" 
+y="444" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>He slows down a little while after you press the keys – that’s like </text>
+
+<text 
+x="55" 
+y="467" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>friction or air resistance in the real world.</text>
+
+<text 
+x="55" 
+y="506" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>He does not fall through the air yet, just sits there: that is not </text>
+
+<text 
+x="55" 
+y="530" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>like the real world.</text>
+
+<text 
+x="378" 
+y="569" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>To make him ‘fall’ </text>
+
+<text 
+x="378" 
+y="592" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>properly, you </text>
+
+<text 
+x="378" 
+y="616" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>need to add </text>
+
+<text 
+x="378" 
+y="639" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>gravity to the </text>
+
+<text 
+x="378" 
+y="663" 
+dx="0,0,0,0,0" 
+class="s4_6"
+>game:</text>
+
+<text 
+x="378" 
+y="702" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>He doesn’t quite land </text>
+
+<text 
+x="378" 
+y="726" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>correctly on each step, </text>
+
+<text 
+x="378" 
+y="749" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>until you add:</text>
+
+<text 
+x="55" 
+y="827" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Most video games that look like this involve climbing up as well as </text>
+
+<text 
+x="55" 
+y="850" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>climbing down. </text>
+
+<text 
+x="166" 
+y="850" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>To enable the hippo to jump, add:</text>
+
+<text 
+x="385" 
+y="889" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Now you should be able to both descend and ascend using the </text>
+
+<text 
+x="385" 
+y="913" 
+dx="0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>arrow keys.</text>
+
+<text 
+x="385" 
+y="952" 
+dx="0,0,0,0,0,0" 
+class="s5_6"
+>Extra:</text>
+
+<path d="M385,955l41,0" class="g4_6" />
+<text 
+x="385" 
+y="991" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Change the numbers for jumping, falling down (gravity) and slowing </text>
+
+<text 
+x="385" 
+y="1014" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>down to see how they affect the game.</text>
+
+<text 
+x="385" 
+y="1053" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Sometimes the top of the hippo sticks to one of the steps above him. </text>
+
+<text 
+x="385" 
+y="1077" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>How could you fix the game so that doesn’t happen?</text>
+
+<text 
+x="55" 
+y="1116" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Improve the game with your own ideas. </text>
+
+<text 
+x="334" 
+y="1116" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>Show your finished game to the kids near you and to a mentor. </text>
+
+<text 
+x="772" 
+y="1116" 
+dx="0,0,0,0,0,0,0" 
+class="s4_6"
+>Upload </text>
+
+<text 
+x="55" 
+y="1139" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s4_6"
+>your game to the web (username: coderdojobray; password: brayhead).</text>
+
+<image x="34" y="97" width="322" height="310" xlink:href="6/img/1.png" />
+<image x="609" y="167" width="283" height="125" xlink:href="6/img/2.png" />
+<image x="512" y="394" width="361" height="272" xlink:href="6/img/3.png" />
+<image x="549" y="675" width="270" height="182" xlink:href="6/img/4.png" />
+<image x="52" y="558" width="312" height="207" xlink:href="6/img/5.png" />
+<image x="55" y="873" width="316" height="201" xlink:href="6/img/6.png" />
+<path d="M423,114l-51,0" class="g5_6" />
+<path fill-rule="evenodd" d="M368.4,114.1l12.7,-7.4l0.2,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0.1l0.1,0l0.2,0.1l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.1l0.1,0.2l0.1,0.1l0,0.2l0.1,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.1l0,0.2l-0.1,0.2l-0.1,0.2l-0.2,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.1l-7.5,4.4l7.5,4.4l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.1l0.1,0.2l0.1,0.2l0,0.1l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l-0.1,0.2l0,0.1l-0.2,0.2l-0.1,0.1l-0.1,0.2l-0.2,0.1l-0.2,0.1l-0.2,0.1l-0.1,0l-0.2,0.1l-0.2,0l-0.2,0l-0.2,-0.1l-0.2,0l-0.2,-0.1l-0.1,0Z" class="g6_6" />
+<path d="M582.2,142.5l0,18.3" class="g5_6" />
+<path fill-rule="evenodd" d="M582.2,165.3l-7.4,-12.7l-0.1,-0.1l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.1,0l0.2,0.1l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.1l0.1,0.1l4.4,7.5l4.4,-7.5l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,0l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.1,0.1l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.2l0.1,0.1l0.1,0.2l0,0.1l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l-0.1,0.2l0,0.1Z" class="g6_6" />
+<path d="M734,142l0,18" class="g5_6" />
+<path fill-rule="evenodd" d="M734.4,164.6L727,151.9l-0.1,-0.1l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.1,0l0.2,0.1l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.1l0.1,0.1l4.4,7.5l4.4,-7.5l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,0l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.1,0.1l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.2l0.1,0.1l0.1,0.2l0,0.1l0.1,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l-0.1,0.2l0,0.1Z" class="g6_6" />
+<path d="M340,517l153,0" class="g5_6" />
+<path fill-rule="evenodd" d="M498,517.4l-12.7,7.4l-0.2,0.1l-0.2,0l-0.1,0.1l-0.2,0l-0.3,0l-0.2,0L484,524.9l-0.2,0l-0.2,-0.1l-0.1,-0.1l-0.2,-0.1l-0.1,-0.2L483,524.3l0,-0.2L482.9,524l-0.1,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.1l0.2,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.1l7.5,-4.4L483.6,513l-0.2,-0.1l-0.1,-0.2l-0.2,-0.1L483,512.4l-0.1,-0.2l-0.1,-0.1l0,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,0l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.1,0.1Z" class="g6_6" />
+<path d="M372,634l-21,0" class="g5_6" />
+<path fill-rule="evenodd" d="M346.7,634.9l12.7,-7.4l0.2,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.1,0l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.1l0.1,0.2l0.2,0.1l0,0.1l0.1,0.2l0.1,0.2l0,0.2l0.1,0.2l0,0.2l-0.1,0.2l0,0.1l-0.1,0.2l0,0.2l-0.1,0.2l-0.2,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.1l-7.5,4.4l7.5,4.4l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.2l0.1,0.1l0.1,0.2l0,0.1l0.1,0.2l0,0.3l0,0.2l-0.1,0.2l0,0.1l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.1l-0.2,0.1l-0.2,0.1l-0.1,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.2,-0.1l-0.2,-0.1l-0.1,0Z" class="g6_6" />
+<path d="M481,742l41,0" class="g5_6" />
+<path fill-rule="evenodd" d="M526.7,742.8l-12.6,7.4l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,0l-0.1,0l-0.2,-0.1l-0.2,-0.1l-0.2,-0.1L512,750l-0.1,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.1,-0.1l7.5,-4.4l-7.5,-4.4l-0.1,-0.1L512,738.2L511.9,738l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l-0.1,-0.1l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0.1l0.1,0l0.2,0.1l0.2,0Z" class="g6_6" />
+<path d="M339,857l0,33" class="g5_6" />
+<path fill-rule="evenodd" d="M339.6,895.2l-7.4,-12.6l-0.1,-0.2l0,-0.2L332,882l0,-0.2l0,-0.2l0,-0.2l0.1,-0.1l0,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.1,0.1l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.1l0.1,0.1l4.4,7.5l4.4,-7.5l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.1,0.1l0.2,0.1l0.1,0.2l0.1,0.1l0.2,0.2l0.1,0.1l0,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l0,0.2l0,0.1l-0.1,0.2l-0.1,0.2Z" class="g6_6" />
+<image x="359" y="171" width="263" height="118" xlink:href="6/img/7.png" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Calibri-Bold_1h;
+	src: url("fonts/Calibri-Bold_1h.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri_1j;
+	src: url("fonts/Calibri_1j.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

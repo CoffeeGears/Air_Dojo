@@ -1,0 +1,925 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 36 -->
+<svg x="0" y="0" width="1645" height="1061" viewBox="0 0 1645 1061" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g9_36{
+fill: #FFD400;
+}
+.g6_36{
+fill: none;
+stroke: #B897C1;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_36{
+fill: #89BA6E;
+}
+.g4_36{
+fill: none;
+stroke: #00AEEF;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g5_36{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_36{
+fill: none;
+stroke: #89BA6E;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g3_36{
+fill: none;
+stroke: #FEC22A;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g12_36{
+fill: #B897C1;
+}
+.g11_36{
+fill: #00AEEF;
+}
+.g1_36{
+fill: #B3CBC8;
+}
+.g13_36{
+fill: #FFFFFF;
+}
+.g7_36{
+fill: #EF4524;
+}
+.g8_36{
+fill: #FAAD60;
+}
+
+.s3_36{
+font-size: 9.17px;
+font-family: Helvetica-Bold_1bu;
+fill: #11151D;
+}
+.s4_36{
+font-size: 12.22px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s2_36{
+font-size: 15.28px;
+font-family: AndaleMono_1cn;
+fill: #11151D;
+}
+.s1_36{
+font-size: 14.97px;
+font-family: AndaleMono_1cn;
+fill: #11151D;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1061
+L1645,1061
+L1645,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image x="-33" y="-32" width="1713" height="1115" xlink:href="36/img/1.png" />
+<image x="-13" y="-11" width="1674" height="1073" opacity="0.5" xlink:href="36/img/2.png" />
+<path d="M869,44l0,4l-4,0l0,941l4,0l0,5l729,0l0,-5l4,0l0,-941l-4,0l0,-4Z" class="g1_36" />
+<path d="M47,44l0,4l-4,0l0,965l4,0l0,4l728,0l0,-4l4,0L779,48l-4,0l0,-4Z" class="g1_36" />
+<image x="1427" y="883" width="135" height="153" xlink:href="36/img/3.png" />
+<path d="M755,44l0,63l-12,0" class="g2_36" />
+<path d="M770,44l0,730l-12,0" class="g3_36" />
+<path d="M743,118l12,0l0,214l-12,0" class="g2_36" />
+<path d="M743,339l12,0l0,200l-12,0" class="g2_36" />
+<path d="M743,560l12,0l0,196l-12,0" class="g2_36" />
+<path d="M743,799l12,0l0,218" class="g2_36" />
+<path d="M758,781l12,0l0,236" class="g4_36" />
+<path d="M50,44l0,973" class="g5_36" />
+<path d="M1577,44l0,266l-12,0" class="g2_36" />
+<path d="M1592,44l0,754l-12,0" class="g4_36" />
+<path d="M873,44l0,894l12,0" class="g5_36" />
+<path d="M1565,321l12,0l0,171l-12,0" class="g2_36" />
+<path d="M1565,500l12,0l0,259l-12,0" class="g2_36" />
+<path d="M1580,804l12,0l0,113l-12,0" class="g6_36" />
+<path d="M941,994l76,0l0,-18l-76,0l0,18Z" class="g7_36" />
+<path d="M1017,994l76,0l0,-18l-76,0l0,18Z" class="g8_36" />
+<path d="M1093,994l76,0l0,-18l-76,0l0,18Z" class="g9_36" />
+<path d="M1168,994l76,0l0,-18l-76,0l0,18Z" class="g10_36" />
+<path d="M1244,994l76,0l0,-18l-76,0l0,18Z" class="g11_36" />
+<path d="M1320,994l75,0l0,-18l-75,0l0,18Z" class="g12_36" />
+<path d="M865,994l76,0l0,-18l-76,0l0,18Z" class="g13_36" />
+<text 
+x="950" 
+y="67" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;ul&gt;</text>
+
+<text 
+x="971" 
+y="87" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;li&gt;Magical Mystery Bug&lt;/li&gt;</text>
+
+<text 
+x="971" 
+y="107" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;li&gt;Boot It&lt;/li&gt;</text>
+
+<text 
+x="971" 
+y="127" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;li&gt;The Long and Winding Code&lt;/li&gt;</text>
+
+<text 
+x="971" 
+y="147" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;li&gt;Dojo Dancing&lt;/li&gt;</text>
+
+<text 
+x="971" 
+y="168" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;li&gt;Empty Elements&lt;/li&gt;</text>
+
+<text 
+x="971" 
+y="188" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;li&gt;Java Chameleon&lt;/li&gt;</text>
+
+<text 
+x="950" 
+y="208" 
+dx="0,0,0,0,0" 
+class="s1_36"
+>&lt;/ul&gt;</text>
+
+<text 
+x="950" 
+y="228" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h3&gt;How to Buy&lt;/h3&gt;</text>
+
+<text 
+x="970" 
+y="248" 
+dx="0,0,0,0,0,0,0.3,0,0,0,0,0.3,0,0,0.3,0,0,0,0.3,0,0,0.3,0,0,0,0.3,0,0,0,0,0,0,0,0,0.3,0,0,0.3,0,0,0,0,0,0,0,0.3,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p&gt;On sale at any of our concerts or contact &lt;a href="mailto:info@</text>
+
+<text 
+x="878" 
+y="268" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>nanonauts.com"&gt;info@nanonauts.com&lt;/a&gt;</text>
+
+<text 
+x="950" 
+y="289" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="928" 
+y="309" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="928" 
+y="329" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;section&gt;</text>
+
+<text 
+x="950" 
+y="349" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h2&gt;Our Next Concert&lt;/h2&gt;</text>
+
+<text 
+x="950" 
+y="369" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h3&gt;Sunday, 12th June, Theatre&lt;/h3&gt;</text>
+
+<text 
+x="958" 
+y="389" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0" 
+class="s1_36"
+>&lt;p&gt;Why not come along to our next concert? We're playing as part of a </text>
+
+<text 
+x="878" 
+y="410" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0,0.6,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0" 
+class="s1_36"
+>star-studded line-up for the Annual Greystones Charity Fundraiser. The event </text>
+
+<text 
+x="878" 
+y="430" 
+dx="0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,-1.8,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>starts at 7:30pm and The Nanonauts should be on stage at around 8:30pm.&lt;/p&gt;</text>
+
+<text 
+x="950" 
+y="450" 
+dx="0,0,0,0,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p&gt;And we'll be introducing a surprise guest!&lt;/p&gt;</text>
+
+<text 
+x="950" 
+y="470" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,-1.8,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p&gt;Admission is €5 on the door. Kids under 14 get in free.&lt;/p&gt;</text>
+
+<text 
+x="928" 
+y="490" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="928" 
+y="510" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;section&gt;</text>
+
+<text 
+x="950" 
+y="531" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h2&gt;Nano Fashion – Get the T-shirt&lt;/h2&gt;</text>
+
+<text 
+x="954" 
+y="551" 
+dx="0,0,0,0,0,0,-1.4,0,0,0,-1.4,0,0,0,0,-1.4,0,0,0,-1.4,0,0,0,0,0,0,0,0,0,-1.4,0,0,0,-1.4,0,0,0,-1.4,0,0,0,-1.4,0,0,0,-1.4,0,0,-1.4,0,0,0,-1.4,0,0,0,0,0,0,0,-1.4,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p&gt;If you like the Nanonauts why not buy one of our stylish all-cotton </text>
+
+<text 
+x="878" 
+y="571" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>Nanonauts T-shirts?&lt;/p&gt;</text>
+
+<text 
+x="978" 
+y="591" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0,0,1,0,0,1,0,1,0,0,0,1,0,0,1,0,0,0,0,1,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0" 
+class="s1_36"
+>&lt;p&gt;Available in S, M, L and XL they make the perfect birthday or </text>
+
+<text 
+x="878" 
+y="611" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>Christmas present.&lt;/p&gt;</text>
+
+<text 
+x="950" 
+y="631" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="1013" 
+y="652" 
+dx="0,0,0,0,0,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3.3,0,0,0,0,0,0,0,0,0,0,0,0,3.3,0,0" 
+class="s1_36"
+>&lt;img class="medium" src="images/t-shirt.png" alt="Picture of </text>
+
+<text 
+x="878" 
+y="672" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>T-shirt"/&gt;</text>
+
+<text 
+x="950" 
+y="692" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="970" 
+y="712" 
+dx="0,0,0,0,0,0,0.3,0,0,0,0,0.3,0,0,0.3,0,0,0,0.3,0,0,0.3,0,0,0,0.3,0,0,0,0,0,0,0,0,0.3,0,0,0.3,0,0,0,0,0,0,0,0.3,0,0,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p&gt;On sale at any of our concerts or contact &lt;a href="mailto:info@</text>
+
+<text 
+x="878" 
+y="732" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>nanonauts.com"&gt;info@nanonauts.com&lt;/a&gt;</text>
+
+<text 
+x="950" 
+y="752" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="928" 
+y="773" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="907" 
+y="793" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/aside&gt;</text>
+
+<text 
+x="907" 
+y="813" 
+dx="0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;footer&gt;</text>
+
+<text 
+x="928" 
+y="833" 
+dx="0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,-1.8,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p class="copyright"&gt;All information copyright © the Nanonauts&lt;/p&gt;</text>
+
+<text 
+x="944" 
+y="853" 
+dx="0,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0.5,0,0,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;p class="contact"&gt;Contact: &lt;a href="mailto:info@nanonauts.com"&gt;info@</text>
+
+<text 
+x="878" 
+y="874" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>nanonauts.com&lt;/a&gt;</text>
+
+<text 
+x="928" 
+y="894" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="907" 
+y="914" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/footer&gt;</text>
+
+<text 
+x="892" 
+y="934" 
+dx="0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/body&gt;</text>
+
+<text 
+x="878" 
+y="954" 
+dx="0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/html&gt;</text>
+
+<text 
+x="56" 
+y="67" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0" 
+class="s2_36"
+>learned to sing before he learned to talk!</text>
+
+<text 
+x="428" 
+y="67" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="125" 
+y="87" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="152" 
+y="87" 
+dx="0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0" 
+class="s2_36"
+>Daniel also plays clarinet and is learning the alto saxophone.</text>
+
+<text 
+x="704" 
+y="87" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="106" 
+y="107" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="106" 
+y="127" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;section&gt;</text>
+
+<text 
+x="128" 
+y="147" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;h2&gt;</text>
+
+<text 
+x="164" 
+y="147" 
+dx="0,0,0,0,-1.8,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s2_36"
+>Sam – One-man rhythm section</text>
+
+<text 
+x="413" 
+y="147" 
+dx="0,0,0,0,0" 
+class="s1_36"
+>&lt;/h2&gt;</text>
+
+<text 
+x="128" 
+y="168" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="149" 
+y="188" 
+dx="0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0" 
+class="s1_36"
+>&lt;img class="small" src="images/sam.png" alt="Picture of Sam"/&gt;</text>
+
+<text 
+x="128" 
+y="208" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="151" 
+y="228" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="178" 
+y="228" 
+dx="0,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0,0.5,0,0,0,0.5,0,0,0.5,0,0,0,0.5,0,0,0,0,0,0.5,0,0,0,0,0.5,0,0,0" 
+class="s2_36"
+>Sam had music in his blood from the day he was born. Both his </text>
+
+<text 
+x="56" 
+y="248" 
+dx="0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,-0.5,0,0,-0.5,0,0,0,-0.5,0,0,0,0" 
+class="s2_36"
+>mum and dad play instruments and got him his first drum kit when he was only </text>
+
+<text 
+x="56" 
+y="268" 
+dx="0,0,0,0,0,0.8,0,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0.8,0,0,0,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0,0,0,0,0,0.8,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0,0.8,0,0" 
+class="s2_36"
+>five years old, which led to trouble with the neighbours. On some songs he </text>
+
+<text 
+x="56" 
+y="289" 
+dx="0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0.1,0,0,0,0,0.1,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0.1,0,0,0.1,0,0,0" 
+class="s2_36"
+>plays the bass guitar and on some songs the drums. Sam loves playing in the </text>
+
+<text 
+x="56" 
+y="309" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s2_36"
+>Nanonauts but hates carrying his drumkit around.</text>
+
+<text 
+x="485" 
+y="309" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="106" 
+y="329" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="106" 
+y="349" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;section&gt;</text>
+
+<text 
+x="128" 
+y="369" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,-1.8,0,0,-1.8,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h2&gt;Holly – If it's got strings, she'll play it&lt;/h2&gt;</text>
+
+<text 
+x="128" 
+y="389" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="149" 
+y="410" 
+dx="0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;img class="small" src="images/holly.png" alt="Picture of Holly"/&gt;</text>
+
+<text 
+x="149" 
+y="430" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="175" 
+y="450" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="202" 
+y="450" 
+dx="0,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0.2,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0,0,0,0.2,0,0,0,0,0,0.2,0,0,0,0,0" 
+class="s2_36"
+>Acoustic guitar? Electric lead guitar? Ukelele? Harp? Helen </text>
+
+<text 
+x="56" 
+y="470" 
+dx="0,0,0,0,-0.7,0,0,0,0,-0.7,0,0,0,0,-0.7,0,0,0,0,-0.7,0,0,0,-0.7,0,0,0,0,0,0,0,-0.7,0,0,0,-0.7,0,0,-0.7,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,-0.7,0,0,0,0,0,0,0,-0.7,0,0,0,0,-0.7,0,0,0,0,0,0,0,0,0" 
+class="s2_36"
+>can play them all. She started off by making homemade guitars from cardboard </text>
+
+<text 
+x="56" 
+y="490" 
+dx="0,0,0,0,0,0,2,0,0,0,2,0,0,0,0,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,2,0,0,0,0,0,2,0,0,0,0,2,0,0,0,0,2,0,0,2,0,0,0,2,0,0,0,2,0,0,0,0,0,0,2,0,0,0,2,0" 
+class="s2_36"
+>boxes and elastic bands till her uncle took pity on her and bought her a </text>
+
+<text 
+x="56" 
+y="510" 
+dx="0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0.1,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0,0.1,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0" 
+class="s2_36"
+>Spanish guitar for Christmas. After a few lessons at school she was flying! </text>
+
+<text 
+x="56" 
+y="531" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="106" 
+y="551" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="106" 
+y="571" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;section&gt;</text>
+
+<text 
+x="128" 
+y="591" 
+dx="0,0,0,0,0,0,0,0,0,0,0,-1.8,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h2&gt;Dervla – Keyboard maestro&lt;/h2&gt;</text>
+
+<text 
+x="128" 
+y="611" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="211" 
+y="631" 
+dx="0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,3,0,0" 
+class="s1_36"
+>&lt;img class="small" src="images/dervla.png" alt="Picture of </text>
+
+<text 
+x="56" 
+y="652" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>Dervla"/&gt;</text>
+
+<text 
+x="128" 
+y="672" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="134" 
+y="692" 
+dx="0,0,0" 
+class="s1_36"
+>&lt;p&gt;</text>
+
+<text 
+x="161" 
+y="692" 
+dx="0,0,0,0,0,0,0,-1.2,0,0,0,-1.2,0,0,0,0,0,-1.2,0,-1.2,0,0,0,0,0,-1.2,0,0,0,-1.2,0,0,-1.2,0,0,0,0,0,0,-1.2,0,0,0,0,0,0,0,-1.1,0,0,-1.2,0,0,0,0,-1.2,0,0,0,0,0,0,0,0,0,0" 
+class="s2_36"
+>Dervla has Grade 4 piano but in secret prefers to play electronic </text>
+
+<text 
+x="56" 
+y="712" 
+dx="0,0,0,0,0,0,0,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,0,3.8,0,0,0,0,0,0,0,0,0,0,0,3.8,0,0,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,0,0,0,3.8,0,0,0,0,3.8,0,0,0,0,0,3.8,0,0,0,0,3.8,0,0,0" 
+class="s2_36"
+>keyboards. She loves synthesizer sounds and arguing with Holly over who </text>
+
+<text 
+x="56" 
+y="732" 
+dx="0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,0" 
+class="s2_36"
+>should play the basslines.</text>
+
+<text 
+x="289" 
+y="732" 
+dx="0,0,0,0" 
+class="s1_36"
+>&lt;/p&gt;</text>
+
+<text 
+x="106" 
+y="752" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/section&gt;</text>
+
+<text 
+x="85" 
+y="773" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;/article&gt;</text>
+
+<text 
+x="85" 
+y="793" 
+dx="0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;aside&gt;</text>
+
+<text 
+x="106" 
+y="813" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;section&gt;</text>
+
+<text 
+x="128" 
+y="833" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h2&gt;Nano Noodling – Buy Our New CD!&lt;/h2&gt;</text>
+
+<text 
+x="128" 
+y="853" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h3&gt;Great if you're learning to play!&lt;/h3&gt;</text>
+
+<text 
+x="184" 
+y="873" 
+dx="0,0,0,0,0,0,0,3.8,0,0,0,0,3.8,0,0,0,0,3.8,0,0,0,0,0,0,0,0,3.8,0,0,3.8,0,0,0,0,3.8,0,0,0,0,0,0,0,3.8,0,0,0,0,0,0,0,0,0,0,0,0,3.8,0,0,0,0" 
+class="s1_36"
+>&lt;p&gt;Are your kids learning to play musical instruments? Then </text>
+
+<text 
+x="56" 
+y="894" 
+dx="0,0,0,0,9.5,0,0,0,9.5,0,0,0,0,0,9.5,0,0,0,0,9.5,0,0,0,0,0,9.5,0,0,9.5,0,0,9.5,0,0,0,9.5,0,0,0,0,0,0,0,0,0,0,9.5,0,0,0,0,0,0,0,0,0,9.5,0,0,0,0,0,0,9.5,0,0" 
+class="s1_36"
+>why not order this great CD of the Nanonauts' favourite songs! As </text>
+
+<text 
+x="56" 
+y="914" 
+dx="0,0,0,0,0,8.7,0,0,8.7,0,0,0,0,0,0,8.7,0,0,0,8.7,0,0,0,8.7,0,0,0,0,0,0,0,0,8.7,0,0,0,0,0,0,8.7,0,0,0,8.7,0,0,8.7,0,0,0,0,0,0,0,0,8.7,0,0,0,0,0,0,0,0,8.7,0,0" 
+class="s1_36"
+>well as having all the complete songs, the CD includes versions of </text>
+
+<text 
+x="56" 
+y="934" 
+dx="0,0,0,0,7.2,0,0,0,0,0,7.2,0,0,0,0,7.2,0,0,0,0,7.2,0,0,0,0,0,0,0,0,0,0,7.2,0,0,0,0,0,0,0,7.2,0,7.2,0,0,7.2,0,0,0,7.2,0,0,0,7.2,0,0,0,0,7.2,0,0,0,0,0,7.2,0,0,0,0" 
+class="s1_36"
+>the songs with each instrument missing – so you can play along with </text>
+
+<text 
+x="56" 
+y="954" 
+dx="0,0,0,0,0,6.5,0,0,0,6.5,0,0,0,0,0,0,0,0,0,0,0,6.5,0,0,0,6.5,0,0,0,0,6.5,0,0,0,0,0,6.5,0,0,0,6.5,0,0,0,6.5,0,0,0,0,6.5,0,0,0,0,0,6.5,0,0,0,6.5,0,0,0,6.5,0,0,0,0,0.1" 
+class="s1_36"
+>your own instrument. Not only that, but the solo parts and the music </text>
+
+<text 
+x="56" 
+y="974" 
+dx="0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,-1.8,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>are also included so you can copy what to play.&lt;/p&gt;</text>
+
+<text 
+x="128" 
+y="994" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0" 
+class="s1_36"
+>&lt;h3&gt;Track List&lt;/h3&gt;</text>
+
+<text 
+x="963" 
+y="987" 
+dx="0,0,0,0,0,0" 
+class="s3_36"
+>header</text>
+
+<text 
+x="1046" 
+y="987" 
+dx="0,0,-0.1" 
+class="s3_36"
+>nav</text>
+
+<text 
+x="1117" 
+y="987" 
+dx="0,0,0.2,0,0,-0.2,0" 
+class="s3_36"
+>article</text>
+
+<text 
+x="1190" 
+y="987" 
+dx="0,0,0,0,0,0,0" 
+class="s3_36"
+>section</text>
+
+<text 
+x="1270" 
+y="987" 
+dx="0,0,0,0,0" 
+class="s3_36"
+>aside</text>
+
+<text 
+x="1345" 
+y="987" 
+dx="0,-0.2,0,0,0,0" 
+class="s3_36"
+>footer</text>
+
+<text 
+x="892" 
+y="987" 
+dx="0,0,0,-0.1" 
+class="s3_36"
+>body</text>
+
+<text 
+x="1591" 
+y="1019" 
+dx="0,-1.5" 
+class="s4_36"
+>71</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: AndaleMono_1cn;
+	src: url("fonts/AndaleMono_1cn.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_1bs;
+	src: url("fonts/PixelSplitter-Bold_1bs.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Bold_1bu;
+	src: url("fonts/Helvetica-Bold_1bu.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 3 -->
+<svg x="0" y="0" width="1645" height="1061" viewBox="0 0 1645 1061" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g5_3{
+fill: #11151D;
+}
+.g4_3{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g2_3{
+fill: #FAAD60;
+}
+.g3_3{
+fill: #B3CBC8;
+}
+.g1_3{
+fill: #FFFFFF;
+}
+
+.s8_3{
+font-size: 12.22px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s6_3{
+font-size: 63.17px;
+font-family: PixelSplitter-Bold_1m;
+fill: #FFFFFF;
+}
+.s5_3{
+font-size: 32.08px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s2_3{
+font-size: 19.86px;
+font-family: Wingdings-Regular_1c4;
+fill: #11151D;
+}
+.s4_3{
+font-size: 38.19px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s3_3{
+font-size: 19.86px;
+font-family: Helvetica-Bold_1bu;
+fill: #11151D;
+}
+.s7_3{
+font-size: 15.28px;
+font-family: Helvetica-Bold_1q;
+fill: #FFFFFF;
+}
+.s1_3{
+font-size: 15.28px;
+font-family: Helvetica-Light_1by;
+fill: #11151D;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1061
+L1645,1061
+L1645,0 Z "
+fill="#FFFFFF" stroke="none" />
+<image x="-33" y="-32" width="1713" height="1115" xlink:href="3/img/1.png" />
+<image x="-1" y="-1" width="826" height="1064" xlink:href="3/img/2.png" />
+<image x="811" y="-11" width="850" height="1065" opacity="0.5" style="mix-blend-mode: multiply;" xlink:href="3/img/3.png" />
+<path d="M866,128l0,58l4,0l0,4l728,0l0,-4l4,0l0,-58Z" class="g1_3" />
+<path d="M870,52l0,5l-4,0l0,71l736,0l0,-71l-4,0l0,-5Z" class="g2_3" />
+<path d="M870,332l0,4l-4,0l0,291l4,0l0,4l728,0l0,-4l4,0l0,-291l-4,0l0,-4Z" class="g3_3" />
+<path d="M871,827l0,5l-5,0l0,67l5,0l0,5l727,0l0,-5l4,0l0,-67l-4,0l0,-5Z" class="g1_3" />
+<image x="1205" y="385" width="160" height="246" xlink:href="3/img/4.png" />
+<image x="1385" y="386" width="191" height="246" xlink:href="3/img/5.png" />
+<path d="M1171.5,598.5l0,-242l364,0l0,69" class="g4_3" />
+<path d="M1271.5,356.5l0,28" class="g4_3" />
+<path d="M1105.5,509.5l66,0" class="g4_3" />
+<path d="M1027.5,552.5l144,0" class="g4_3" />
+<path d="M1007.5,596.5l164,0" class="g4_3" />
+<path d="M1343.5,356.5l0,69" class="g4_3" />
+<path d="M1453.5,356.5l0,25" class="g4_3" />
+<text
+x="879"
+y="225"
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,0.8,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.2,-0.5,0.8,-0.5,-0.5,-0.5,0.8,-0.5,-0.5,-0.5,-0.7,-0.5,0.8,-0.5,-0.5,0"
+class="s1_3"
+>CoderDojo is a coding club for young people which lets you hang out with other coders, learn new stuff and </text>
+
+<text
+x="879"
+y="246"
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-1.6,-0.5,-1,-0.5,-0.7,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-0.7,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1.9,-0.5,-1,-0.5,-0.5,-0.5,-0.7,-0.5,-1.6,-0.5,-1,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,-0.5,-1,-0.5,-0.5,-0.5,0"
+class="s1_3"
+>generally have fun with computers. It’s free and you work with your friends. If you’re lucky, there’s a Dojo near you. </text>
+
+<text
+x="879"
+y="267"
+dx="0,-0.5,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.7,-0.5,0.1,-0.5,-0.5,-0.5,-0.7,-0.5,0.1,-0.5,0.1,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.5,0.1,-0.5,-0.5,0.1,-0.5,-0.5,0.1,-0.5,-0.5,-0.5,-0.1"
+class="s1_3"
+>Maybe you’ve been down and done some coding? But maybe there isn’t – or maybe you just want to do even </text>
+
+<text
+x="879"
+y="289"
+dx="0,-0.5,-0.5,-0.7,-0.5,-1.3,-0.5,-0.5,-0.5,-0.5,-0.5,-0.5"
+class="s1_3"
+>more coding?</text>
+
+<text
+x="879"
+y="364"
+dx="0,0,0,2.3,0,0,0,2.3,0,0,0,-0.3,0,2.3,0,0,0,0.3,-1.4,0,2.3,-1.4,0,0,2.3,0,0,0,2.3,0,0,0,0"
+class="s1_3"
+>If so, don’t worry. You can just </text>
+
+<text
+x="879"
+y="385"
+dx="0,0,0,0,1.7,0,0,0,0,1.7,0,0,0,1.7,0,-0.3,0,0,0,0,0,0,1.7,0,0,0,0,0,0,0,0,0,0"
+class="s1_3"
+>get your own official mini-Dojo, </text>
+
+<text
+x="879"
+y="406"
+dx="0,0,2.9,0,0,0,0,2.9,0,0,0,0,0,2.9,0,0,2.9,0,0,0,2.9,0,0,0,0,0,0,0,0"
+class="s1_3"
+>a Dojo Nano, up and running. </text>
+
+<text
+x="879"
+y="428"
+dx="0,0,0,0,0,-0.9,0,0,-1.1,0,-0.9,0,0,0,-1.4"
+class="s1_3"
+>How? It’s easy.</text>
+
+<text
+x="880"
+y="738"
+dx="0,0,0,0,0,0.7,0,0,0,0,0,0,0,0.7,0,0,0.7,0,0,0,0,0.7,0,0,0,0,0.7,0,0,0,0,0,0.7,0,0,0,0,0,0,0,0,-1.4,0,0.7,0,0,0,0,0,0,0,0,0.7,0,0,0,0.7,0,0,0,0,0,0.7,0,0,0.7,0,0,0,0,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0.7,0,0,0.7,0,0,0,0,0.7,0,0,0,0,0.7,0,0,0,-0.3,0"
+class="s1_3"
+>What happens at your Dojo Nano? Basically, whatever you think is cool coding-wise. In this book we're </text>
+
+<text
+x="880"
+y="759"
+dx="0,0,0,0,0,0,0.2,0,0,0.2,0,0,0,0,0.2,0,0,0,0.2,0,0,0,0,0,0,0,0,0,0,0.2,0,0,0,0.2,0,0,0,0,0.2,0,0,0,0.2,0,0,0.2,0,0,0,0,0,0.2,0,0,0,0.2,0,0,0,0,0.2,0,0,0,0,0.2,0,0,0,-0.3,0,0.2,0,0,0,0,0.2,0,0,0,0,0.2,0,0,0.2,0,0,0,0.3,0,0,0,0,0.2,0,0,0.2,0,0,0,0"
+class="s1_3"
+>going to meet the Nanonauts, who have set up their own Dojo Nano where they will be learning to make </text>
+
+<text
+x="880"
+y="781"
+dx="0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0"
+class="s1_3"
+>a website for their band. They'll be combining HTML, CSS and JavaScript to make their website, and you </text>
+
+<text
+x="880"
+y="802"
+dx="0,0,0,0,-0.9,0,0,0,0.3,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0"
+class="s1_3"
+>can learn these skills to make your own website as well!</text>
+
+<text
+x="879"
+y="952"
+dx="0,0,0,0.8,0,0.8,0,0,0,0.3,0,0,0.8,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0.8,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0,0.8,0,0,0,0,-0.3,0,0.8,0,0,0,0,0,0.8,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0,0,0.8,0"
+class="s1_3"
+>As a start, with the help of this book, you’re going to make your Dojo Nano website, and then maybe a </text>
+
+<text
+x="879"
+y="973"
+dx="0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.9,0,0,-1.1,0,-0.9,0,0,0,-1.4,0,-0.9,0,0,-1.1,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0"
+class="s1_3"
+>couple of sites for your friends. It’s easy, it’s fun, and this book will set you on the way!</text>
+
+<text
+x="879"
+y="471"
+dx="0,0,0,0,-0.3,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0"
+class="s1_3"
+>Ingredients for a Dojo Nano: </text>
+
+<text
+x="882"
+y="513"
+dx="0"
+class="s2_3"
+>[</text>
+
+<text
+x="910"
+y="513"
+dx="0,0,0,0,-1.1,0,0,-1.1,0,0,0,0,-1.1,0,0,0,0,0,0,0"
+class="s3_3"
+>one or more friends </text>
+
+<text
+x="882"
+y="556"
+dx="0"
+class="s2_3"
+>[</text>
+
+<text
+x="910"
+y="556"
+dx="0,0,-1.1,0,0,0,0,0,0,0,0"
+class="s3_3"
+>a computer </text>
+
+<text
+x="882"
+y="599"
+dx="0"
+class="s2_3"
+>[</text>
+
+<text
+x="910"
+y="599"
+dx="0,0,0,0,0,-1.1,0,0,0"
+class="s3_3"
+>this book</text>
+
+<text
+x="881"
+y="695"
+dx="0,-3.1,-3.1,-4.1,0,0,0,0,0,0,-3.2,-5.2,-3.1,0,0,-3.1,-3.1,-3.1,0"
+class="s4_3"
+>what’s a Dojo Nano?</text>
+
+<text
+x="904"
+y="877"
+dx="0,-3.4,-2.7,-4,-3.3,0,0,0,0,-4.5,-3.4,-3.1,-3.9,-2.9,-3.3,0,0,0,0,-3.8,-2.9,-2.7,0,0,0,0,-2.7,-4.3,-2.6,0,0,-2.6,-2.6,-2.6"
+class="s5_3"
+>Ideas + friends + code = Dojo Nano</text>
+
+<path d="M870,52l0,5l-4,0l0,127l4,0l0,5l728,0l0,-5l4,0l0,-127l-4,0l0,-5Z" class="g5_3" />
+<text
+x="879"
+y="118"
+dx="0,0,-5.8,-5.3,-5.2,-6.7,0,0,-7.5,-5.7,-5.3,-7.8,-6.1,-5.3,-8.5,-5.1,0"
+class="s6_3"
+>&lt;About CoderDojo&gt;</text>
+
+<text
+x="879"
+y="150"
+dx="0,0,0,0,0,1.3,0,0,0,0,1.3,0,0,1.3,0,0,0,0,0,1.3,0,0,0,0,0,0,-0.6,1.3,0,-0.3,0,0,0,1.3,0,0,0,1.3,0,0,-0.2,0,0,1.3,0,0,0,0,0,1.3,-0.4,0,0,-0.3,0,0,1.3,0,0,0,0,1.3,0,-0.2,0,0,-0.3,0,0,1.3,0,0,0,0,0,0,0,0,1.3,0,1.3,0,0,0,0,0,0,0,-0.2,0,1.3,0,0,0,0"
+class="s7_3"
+>This book is about coding. Maybe the first steps you’ll take towards becoming a seriously good </text>
+
+<text
+x="879"
+y="171"
+dx="0,0,0,0,0,-0.9,-0.6,-0.9,0,0,0,-0.6,-0.9,0,0,-0.9,-0.4,0,0,-0.6,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,0,-0.6,-0.9,-0.4,0,0,-0.9,0,-0.3,0,-0.9,0,-0.2,0,0,-0.9,0,0,0,-0.3,0,-0.9,0,0,-0.9,0,0,0,0,0,0,0,0,0"
+class="s7_3"
+>coder. And, if you’re interested in coding, you may have heard of CoderDojo.</text>
+
+<text
+x="1594"
+y="1019"
+dx="0"
+class="s8_3"
+>5</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Helvetica-Bold_1q;
+	src: url("fonts/Helvetica-Bold_1q.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_1by;
+	src: url("fonts/Helvetica-Light_1by.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_1bs;
+	src: url("fonts/PixelSplitter-Bold_1bs.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Bold_1bu;
+	src: url("fonts/Helvetica-Bold_1bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_1c4;
+	src: url("fonts/Wingdings-Regular_1c4.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_1m;
+	src: url("fonts/PixelSplitter-Bold_1m.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

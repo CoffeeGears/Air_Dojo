@@ -1,0 +1,827 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 37 -->
+<svg x="0" y="0" width="1645" height="1061" viewBox="0 0 1645 1061" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g13_37{
+fill: none;
+stroke: #FFFFFF;
+stroke-width: 3;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-opacity: 0;
+}
+.g5_37{
+fill: #A6C7E9;
+}
+.g6_37{
+fill: #EF4524;
+}
+.g8_37{
+fill: #00AEEF;
+}
+.g7_37{
+fill: #FEC22A;
+}
+.g1_37{
+fill: #FAAD60;
+}
+.g12_37{
+fill: none;
+stroke: #11151D;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g10_37{
+fill: #89BA6E;
+}
+.g9_37{
+fill: #B897C1;
+}
+.g11_37{
+fill: #11151D;
+}
+.g2_37{
+fill: #C5892F;
+}
+.g3_37{
+fill: #FFFFFF;
+}
+.g4_37{
+fill: #B3CBC8;
+}
+
+.s3_37{
+font-size: 15.28px;
+font-family: Helvetica-Bold_1bu;
+fill: #11151D;
+}
+.s5_37{
+font-size: 18.33px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s8_37{
+font-size: 19.14px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s9_37{
+font-size: 12.22px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s7_37{
+font-size: 23.85px;
+font-family: PixelSplitter-Bold_yi;
+fill: #FFFFFF;
+}
+.s6_37{
+font-size: 42.92px;
+font-family: PixelSplitter-Bold_yi;
+fill: #FFFFFF;
+}
+.s4_37{
+font-size: 33.61px;
+font-family: PixelSplitter-Bold_yc;
+fill: #FFFFFF;
+}
+.s1_37{
+font-size: 15.28px;
+font-family: AndaleMono_1cn;
+fill: #11151D;
+}
+.s2_37{
+font-size: 15.28px;
+font-family: Helvetica-Light_1by;
+fill: #11151D;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1061
+L1645,1061
+L1645,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image x="-33" y="-32" width="1713" height="1115" xlink:href="37/img/1.png" />
+<image x="-13" y="-11" width="1674" height="1073" opacity="0.5" xlink:href="37/img/2.png" />
+<path d="M47,53l0,4l-4,0l0,40l4,0l0,4l566,0l0,-4l5,0l0,-40l-5,0l0,-4Z" class="g1_37" />
+<path d="M48,956l4,0l0,5l285,0l0,-5l4,0l0,-104l-4,0l0,-4L48,848Z" class="g2_37" />
+<image x="64" y="862" width="84" height="84" xlink:href="37/img/3.png" />
+<path d="M48,848l205,0l0,-31l-4,0l0,-5L52,812l0,5l-4,0Z" class="g3_37" />
+<path d="M57,320l0,4l-5,0l0,143l5,0l0,4l276,0l0,-4l4,0l0,-143l-4,0l0,-4Z" class="g4_37" />
+<path d="M57,479l0,4l-5,0l0,312l5,0l0,4l276,0l0,-4l4,0l0,-312l-4,0l0,-4Z" class="g4_37" />
+<path d="M370,320l0,4l-4,0l0,143l4,0l0,4l405,0l0,-4l4,0l0,-143l-4,0l0,-4Z" class="g4_37" />
+<path d="M370,479l0,4l-4,0l0,312l4,0l0,5l405,0l0,-5l4,0l0,-312l-4,0l0,-4Z" class="g4_37" />
+<path d="M869,54l0,5l-4,0l0,867l4,0l0,4l729,0l0,-4l4,0l0,-867l-4,0l0,-5Z" class="g5_37" />
+<path d="M892,97l0,4l-4,0l0,782l4,0l0,4l682,0l0,-4l4,0l0,-782l-4,0l0,-4Z" class="g3_37" />
+<path d="M977,121l0,4l-3,0l0,110l3,0l0,4l551,0l0,-4l4,0l0,-110l-4,0l0,-4Z" class="g6_37" />
+<path d="M977,249l0,3l-3,0l0,314l3,0l0,3l551,0l0,-3l4,0l0,-314l-4,0l0,-3Z" class="g7_37" />
+<path d="M977,580l0,3l-3,0l0,195l3,0l0,4l551,0l0,-4l4,0l0,-195l-4,0l0,-3Z" class="g8_37" />
+<path d="M977,794l0,4l-3,0l0,61l3,0l0,4l551,0l0,-4l4,0l0,-61l-4,0l0,-4Z" class="g9_37" />
+<path d="M1073,174l0,3l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-3Z" class="g1_37" />
+<path d="M1073,297l0,4l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-4Z" class="g10_37" />
+<path d="M1073,422l0,4l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-4Z" class="g10_37" />
+<path d="M1073,360l0,4l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-4Z" class="g10_37" />
+<path d="M1073,485l0,4l-3,0l0,49l3,0l0,4l439,0l0,-4l3,0l0,-49l-3,0l0,-4Z" class="g10_37" />
+<path d="M1073,589l0,3l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-3Z" class="g10_37" />
+<path d="M1073,651l0,3l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-3Z" class="g10_37" />
+<path d="M1073,714l0,3l-3,0l0,50l3,0l0,3l439,0l0,-3l3,0l0,-50l-3,0l0,-3Z" class="g10_37" />
+<text 
+x="65" 
+y="342" 
+dx="0,0,0,0,0,0" 
+class="s1_37"
+>&lt;body&gt;</text>
+
+<text 
+x="65" 
+y="364" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;h1&gt;About Us&lt;/h1&gt;</text>
+
+<text 
+x="65" 
+y="385" 
+dx="0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;p&gt;We are the Nanonauts.&lt;/p&gt;</text>
+
+<text 
+x="65" 
+y="406" 
+dx="0,0,0,0,0,0,0,16,0,0,0,0,0,16,0,0,0,16,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;p&gt;Our names are Holly, </text>
+
+<text 
+x="65" 
+y="428" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_37"
+>Dervla, Daniel and Sam.&lt;/p&gt;</text>
+
+<text 
+x="65" 
+y="449" 
+dx="0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;/body&gt;</text>
+
+<text 
+x="65" 
+y="503" 
+dx="0,0,0,0,0,0" 
+class="s1_37"
+>&lt;body&gt;</text>
+
+<text 
+x="65" 
+y="524" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;h1&gt;Our Songs&lt;/h1&gt;</text>
+
+<text 
+x="65" 
+y="545" 
+dx="0,0,0,0,0,0,0,0,7.8,0,0,7.8,0,7.8,0,0,0,0,7.8,0,0,7.8,0,0,0" 
+class="s1_37"
+>&lt;p&gt;This is a list of the </text>
+
+<text 
+x="65" 
+y="567" 
+dx="0,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>songs we can play:&lt;/p&gt;</text>
+
+<text 
+x="65" 
+y="588" 
+dx="0,0,0,0" 
+class="s1_37"
+>&lt;ul&gt;</text>
+
+<text 
+x="65" 
+y="610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Magical Mystery Bug&lt;/li&gt;</text>
+
+<text 
+x="65" 
+y="631" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Boot It&lt;/li&gt;</text>
+
+<text 
+x="65" 
+y="652" 
+dx="0,0,0,0,0,0,0,0,13,0,0,0,0,13,0,0,0,13,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;The Long and Winding </text>
+
+<text 
+x="65" 
+y="674" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>Code&lt;/li&gt;</text>
+
+<text 
+x="65" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Dojo Dancing&lt;/li&gt;</text>
+
+<text 
+x="65" 
+y="717" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Empty Elements&lt;/li&gt;</text>
+
+<text 
+x="65" 
+y="738" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Java Chameleon&lt;/li&gt;</text>
+
+<text 
+x="65" 
+y="759" 
+dx="0,0,0,0,0" 
+class="s1_37"
+>&lt;/ul&gt;</text>
+
+<text 
+x="65" 
+y="781" 
+dx="0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;/body&gt;</text>
+
+<text 
+x="379" 
+y="342" 
+dx="0,0,0,0,0,0" 
+class="s1_37"
+>&lt;body&gt;</text>
+
+<text 
+x="434" 
+y="364" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;h1&gt;About Us&lt;/h1&gt;</text>
+
+<text 
+x="434" 
+y="385" 
+dx="0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;p&gt;We are the Nanonauts.&lt;/p&gt;</text>
+
+<text 
+x="434" 
+y="406" 
+dx="0,0,0,0,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;p&gt;Our names are Holly, </text>
+
+<text 
+x="434" 
+y="428" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_37"
+>Dervla, Daniel and Sam.&lt;/p&gt;</text>
+
+<text 
+x="379" 
+y="449" 
+dx="0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;/body&gt;</text>
+
+<text 
+x="379" 
+y="503" 
+dx="0,0,0,0,0,0" 
+class="s1_37"
+>&lt;body&gt;</text>
+
+<text 
+x="434" 
+y="524" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;h1&gt;Our Songs&lt;/h1&gt;</text>
+
+<text 
+x="434" 
+y="545" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,-1.8,0,-1.8,0,0,0,0,-1.8,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,-1.8,0,0,-1.8,0,0,0" 
+class="s1_37"
+>&lt;p&gt;This is a list of the songs we can </text>
+
+<text 
+x="434" 
+y="567" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>play:&lt;/p&gt;</text>
+
+<text 
+x="434" 
+y="588" 
+dx="0,0,0,0" 
+class="s1_37"
+>&lt;ul&gt;</text>
+
+<text 
+x="471" 
+y="610" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Magical Mystery Bug&lt;/li&gt;</text>
+
+<text 
+x="471" 
+y="631" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Boot It&lt;/li&gt;</text>
+
+<text 
+x="471" 
+y="652" 
+dx="0,0,0,0,0,0,0,0,-1.8,0,0,0,0,-1.8,0,0,0,-1.8,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;The Long and Winding Code&lt;li&gt;</text>
+
+<text 
+x="471" 
+y="674" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Dojo Dancing&lt;/li&gt;</text>
+
+<text 
+x="471" 
+y="695" 
+dx="0,0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Empty Elements&lt;/li&gt;</text>
+
+<text 
+x="471" 
+y="717" 
+dx="0,0,0,0,0,0,0,0,0,-1.8,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;li&gt;Java Chameleon&lt;/li&gt;</text>
+
+<text 
+x="434" 
+y="738" 
+dx="0,0,0,0,0" 
+class="s1_37"
+>&lt;/ul&gt;</text>
+
+<text 
+x="379" 
+y="759" 
+dx="0,0,0,0,0,0,0" 
+class="s1_37"
+>&lt;/body&gt;</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 128)"
+dx="0,0,0,0,0.3,0,-0.6,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0.3,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,0,-0.6,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>Every HTML page has its own particular combination of elements. Some pages might have lots of headings </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 150)"
+dx="0,0,0,0,-0.6,0,0,0,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,-0.6,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,-0.6,0,0,0,-0.6,0,0,0,0,0,0,0,0,-0.6,0,-0.3,0,-0.6,0,0,0,0,0,0,0,0,-0.6,0,0" 
+class="s2_37"
+>and paragraphs. Others might have lots of images or tables. The way in which the elements are arranged is </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 171)"
+dx="0,0,0,0,0,0,0,-0.2,0,0,0,-0.2,0,0,0,0,-1.1,0,-0.2,0,0,0,0,0,0,0,-0.3,0,0,-0.2,0,0,-1.1,0,-0.2,0,0,0.3,0,-0.2,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,-0.2,0,0,0,0,0,0,0,-0.3,0,-0.2,0,0,-0.2,0,0,0,0,0,0,0,-0.2,0,0,-0.2,0,0,0,-0.2,0,0,0,0,0,0,0,0,-0.2,0,-0.3,0,0,-0.2,0,0,0,-0.2,0,0,0,0" 
+class="s2_37"
+>called the page’s structure. It’s very common to show this structure by pushing in the elements from the left </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 193)"
+dx="0,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0.3,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,0,-0.4,0,0" 
+class="s2_37"
+>margin. An element that is inside another element is pushed over further than the element it is inside; this is </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 214)"
+dx="0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,-0.5,-1.3,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,-0.3,0" 
+class="s2_37"
+>known as indenting. Most HTML editors will show you an indented view of your code. Two simple pages are </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 235)"
+dx="0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,-0.5,0,0,0,0,0,0,0,0,0,0,0,-0.5,0,0,0,0" 
+class="s2_37"
+>shown below in indented and non-indented views. Note: indentation does </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 548, 235)"
+dx="0,0,0" 
+class="s3_37"
+>not</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 575, 235)"
+dx="0,0,-0.3,0,0,0,0,-0.5,0,0,0,-0.5,0,0,0,-0.5,0,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s2_37"
+>affect how the page appears </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 257)"
+dx="0,0,0,-0.9,0,0,0,-0.9,0,-0.3,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,-0.3,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0" 
+class="s2_37"
+>in the browser; it just makes it easier or you to understand the structure of your page!</text>
+
+<text 
+x="379" 
+y="834" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,-0.3,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,-1.4,0" 
+class="s2_37"
+>Notice how the various tags are nested inside each other. </text>
+
+<text 
+x="379" 
+y="877" 
+dx="0,-0.3,0,-0.1,0,0,0,0,0,-0.1,-0.3,0,0,-0.3,0,0,0,0,0,-0.1,0,0,0,-0.1,0,0,0,0,-0.1,0,0,0,0,0.3,0,0,0,0,0,0,-0.1,0,0,-0.1,0,0,0,0,0,0,0,-0.1,0,0,0" 
+class="s2_37"
+>We could represent the same information by showing the </text>
+
+<text 
+x="379" 
+y="898" 
+dx="0,0,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,0,-0.5,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,-0.5,0,0,0,0,0,0,0" 
+class="s2_37"
+>elements as boxes. If an element is nested inside another </text>
+
+<text 
+x="379" 
+y="920" 
+dx="0,0,0,0,0,0,0,0,1.6,0,0,0,0,1.6,0,0,0,1.6,0,0,0,0,0,1.6,0,-0.3,0,1.6,0,0,0,0,1.6,0,0,0,0,0,0,0,1.6,0,0,0,1.6,0,0,0,0,0,0,1.6,0,0,0" 
+class="s2_37"
+>element then the boxes are also nested, one inside the </text>
+
+<text 
+x="379" 
+y="941" 
+dx="0,0,0,0,0,-1.4,0,0.8,-0.3,0,0.8,0,0,0,0.8,0,0,0,0,0.8,0,0,0,0.8,0,0,0,0,0,0,0,-0.3,0,0.8,0,0,0,0,0.8,0,0,0,0,-0.3,0,0,0.8,0,0,0.8,0,0,0,0,0,0" 
+class="s2_37"
+>other. We can make the structure even clearer by giving </text>
+
+<text 
+x="379" 
+y="963" 
+dx="0,0,0,0,0,4.2,0,0,0,0,0,0,0,4.2,0,4.2,0,0,-0.3,0,0,-0.3,0,0,0,4.2,0,0,0,0,0,-1.4,0,4.2,-0.3,0,4.2,0,0,0,4.2,0,0,4.2,0,0,0,0,4.2,0,0,0" 
+class="s2_37"
+>each element a different colour. We end up with the </text>
+
+<text 
+x="379" 
+y="984" 
+dx="0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>diagram shown opposite:</text>
+
+<text 
+x="879" 
+y="963" 
+dx="0,-0.4,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.4,-0.2,-0.7,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-1.6,-0.2,-0.7,-0.4,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.7,-0.2,-0.2,0.1,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.7,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,0.1,0" 
+class="s2_37"
+>We’ll make use of this structure in the next chapter. We’ll show how you can use CSS to turn these imaginary </text>
+
+<text 
+x="879" 
+y="984" 
+dx="0,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-1,-0.4,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.2,-0.2,-0.2,-0.2,-1,-0.2,-0.4,-0.2,-0.2,-0.2" 
+class="s2_37"
+>blocks into real, visible blocks on the About Us page and then style the blocks so that the page looks great!</text>
+
+<text 
+x="878" 
+y="72" 
+dx="0,0,0,0,0,0" 
+class="s3_37"
+>&lt;html&gt;</text>
+
+<text 
+x="903" 
+y="118" 
+dx="0,0,0,0,-0.2,0" 
+class="s3_37"
+>&lt;body&gt;</text>
+
+<text 
+x="987" 
+y="142" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_37"
+>&lt;header&gt;</text>
+
+<text 
+x="986" 
+y="269" 
+dx="0,0,0,0.3,0,0,-0.3,0,0" 
+class="s3_37"
+>&lt;article&gt;</text>
+
+<text 
+x="989" 
+y="601" 
+dx="0,0,0,0,0,0,0" 
+class="s3_37"
+>&lt;aside&gt;</text>
+
+<text 
+x="987" 
+y="815" 
+dx="0,0,-0.3,0,0,0,0,0" 
+class="s3_37"
+>&lt;footer&gt;</text>
+
+<text 
+x="987" 
+y="769" 
+dx="0,0,0,0,0,0,0,0" 
+class="s3_37"
+>&lt;/aside&gt;</text>
+
+<text 
+x="986" 
+y="850" 
+dx="0,0,0,-0.3,0,0,0,0,0" 
+class="s3_37"
+>&lt;/footer&gt;</text>
+
+<text 
+x="991" 
+y="553" 
+dx="0,0,0,0,0.3,0,0,-0.3,0,0" 
+class="s3_37"
+>&lt;/article&gt;</text>
+
+<text 
+x="1083" 
+y="191" 
+dx="0,0,0,0,0" 
+class="s2_37"
+>&lt;nav&gt;</text>
+
+<text 
+x="1083" 
+y="316" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="441" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="379" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="504" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="607" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="669" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="733" 
+dx="0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;section&gt;</text>
+
+<text 
+x="1083" 
+y="221" 
+dx="0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/nav&gt;</text>
+
+<text 
+x="1083" 
+y="342" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="1083" 
+y="467" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="1083" 
+y="405" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="1083" 
+y="530" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="1083" 
+y="634" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="1083" 
+y="696" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="1083" 
+y="759" 
+dx="0,0,0,0,0,0,0,0,0,0" 
+class="s2_37"
+>&lt;/section&gt;</text>
+
+<text 
+x="985" 
+y="225" 
+dx="0,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1,-0.1" 
+class="s3_37"
+>&lt;/header&gt;</text>
+
+<text 
+x="901" 
+y="873" 
+dx="0,0,0,0,-0.2,0" 
+class="s3_37"
+>&lt;body&gt;</text>
+
+<text 
+x="878" 
+y="919" 
+dx="0,0,0,0,0,0" 
+class="s3_37"
+>&lt;html&gt;</text>
+
+<path d="M47,53l0,4l-4,0l0,40l4,0l0,4l566,0l0,-4l5,0l0,-40l-5,0l0,-4Z" class="g11_37" />
+<text 
+x="60" 
+y="90" 
+dx="0,-3.8,-3.5,-3,-2.9,-4.8,-3.6,-2.7,-2.9,0,0,-2.8,-3,0,0,-3.3,-3,-2.8,-4.1,-3.5,-3.6,-3.6,-4.1,-3.3,-2.7" 
+class="s4_37"
+>Structure and indentation</text>
+
+<text 
+x="56" 
+y="299" 
+dx="0,-1.5,-1.5,0,0,-1.8,-1.7,-1.5,-2.3,-1.9,-1.9,-2.4" 
+class="s5_37"
+>Non-indented</text>
+
+<text 
+x="370" 
+y="299" 
+dx="0,-1.8,-1.7,-1.5,-2.3,-1.9,-1.9,-2.4" 
+class="s5_37"
+>indented</text>
+
+<path d="M340,956l-5,0l0,5l-176,0l0,-113l176,0l0,4l5,0Z" class="g11_37" />
+<path d="M340.5,956.5l-5,0l0,5l-176,0l0,-113l176,0l0,4l5,0l0,104Z" class="g12_37" />
+<path d="M171.5,937.5l156,0" class="g13_37" />
+<path d="M171.5,942.5l156,0" class="g13_37" />
+<text 
+x="173" 
+y="901" 
+dx="0,-3.9,-3.5,-4.9,-5.3" 
+class="s6_37"
+>super</text>
+
+<text 
+x="171" 
+y="930" 
+dx="0,-1.9,-2.2,-2.4,-2,-2.3,-2.8,-2.1,-3.2,0" 
+class="s7_37"
+>Organised!</text>
+
+<text 
+x="61" 
+y="838" 
+dx="0,-1.6,-1.8,-1.7,-1.9,0,0,-1.6,-1.5,-2.6,-1.6,-2.3,-2.1,-2.5" 
+class="s8_37"
+>Badge unlocked</text>
+
+<path d="M50.5,956.5l4,0l0,5l280,0l0,-5l5,0l0,-104l-5,0l0,-4l-284,0l0,108Z" class="g12_37" />
+<path d="M50.5,848.5l201,0l0,-29l-2,0l-3,0l0,-2l0,-2l-192,0l0,2l0,2l-2,0l-2,0l0,29Z" class="g12_37" />
+<text 
+x="1590" 
+y="1019" 
+dx="0,-1.7" 
+class="s9_37"
+>73</text>
+
+<text 
+x="36" 
+y="1019" 
+dx="0,-1.6" 
+class="s9_37"
+>72</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: AndaleMono_1cn;
+	src: url("fonts/AndaleMono_1cn.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_yi;
+	src: url("fonts/PixelSplitter-Bold_yi.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_1by;
+	src: url("fonts/Helvetica-Light_1by.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_1bs;
+	src: url("fonts/PixelSplitter-Bold_1bs.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Bold_1bu;
+	src: url("fonts/Helvetica-Bold_1bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_yc;
+	src: url("fonts/PixelSplitter-Bold_yc.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

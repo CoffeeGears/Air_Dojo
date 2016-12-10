@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 7 -->
+<svg x="0" y="0" width="909" height="1286" viewBox="0 0 909 1286" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g6_7{
+fill: none;
+stroke: #C00000;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_7{
+fill: none;
+stroke: #0000FF;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g2_7{
+fill: none;
+stroke: #F79646;
+stroke-width: 4;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g4_7{
+fill: none;
+stroke: #4F81BD;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g7_7{
+fill: #C00000;
+}
+.g5_7{
+fill: none;
+stroke: #000000;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g1_7{
+fill: #FFFFFF;
+}
+
+.s5_7{
+font-size: 16.81px;
+font-family: Calibri_2e;
+fill: #000000;
+}
+.s6_7{
+font-size: 16.81px;
+font-family: Calibri-Bold_2c;
+fill: #000000;
+}
+.s2_7{
+font-size: 13.75px;
+font-family: Calibri_2e;
+fill: #0000FF;
+}
+.s1_7{
+font-size: 13.75px;
+font-family: Calibri_2e;
+fill: #000000;
+}
+.s3_7{
+font-size: 13.75px;
+font-family: Calibri-Bold_2c;
+fill: #000000;
+}
+.s4_7{
+font-size: 39.72px;
+font-family: Cambria_2a;
+fill: #17365D;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1286
+L909,1286
+L909,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<path fill-rule="evenodd" d="M140,42l611,0l0,32L140,74Z" class="g1_7" />
+<path d="M140,42l611,0l0,32L140,74Z" class="g2_7" />
+<text 
+x="153" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_7"
+>To print more copies, visit </text>
+
+<text 
+x="301" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s2_7"
+>http://scratch.coderdojobray.com/ </text>
+
+<text 
+x="501" 
+y="62" 
+dx="0,0,0,0" 
+class="s1_7"
+>and </text>
+
+<text 
+x="525" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s3_7"
+>Scratch_2.0\Harder</text>
+
+<text 
+x="640" 
+y="62" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s1_7"
+>folder in Dropbox</text>
+
+<path d="M301.5,64.5l197,0" class="g3_7" />
+<text 
+x="55" 
+y="124" 
+dx="0,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4,0.4" 
+class="s4_7"
+>Muffin shower: control game through </text>
+
+<text 
+x="55" 
+y="170" 
+dx="0,0.4,0.4,0.4,0.4,0.4" 
+class="s4_7"
+>webcam</text>
+
+<path d="M52,186l804,0" class="g4_7" />
+<text 
+x="55" 
+y="226" 
+dx="0,0,0,0,0,0,0,0" 
+class="s5_7"
+>In this </text>
+
+<text 
+x="100" 
+y="226" 
+dx="0,0,0,0,0,0,0,0" 
+class="s6_7"
+>advanced</text>
+
+<text 
+x="171" 
+y="226" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>project, you will make a game that uses your </text>
+
+<path d="M100,228l67,0" class="g5_7" />
+<text 
+x="55" 
+y="249" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>computer’s webcam to see whether YOU are moving. </text>
+
+<text 
+x="427" 
+y="249" 
+dx="0,0,0,0,0,0,0" 
+class="s5_7"
+>If you </text>
+
+<text 
+x="55" 
+y="273" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>move enough, you get a high score.</text>
+
+<text 
+x="55" 
+y="312" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Change the costume of a sprite to a muffin. </text>
+
+<text 
+x="55" 
+y="351" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Make a second costume for that sprite that reads “+1”</text>
+
+<text 
+x="305" 
+y="428" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Make your own Scratch </text>
+
+<text 
+x="305" 
+y="452" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>‘block’ to make the </text>
+
+<text 
+x="305" 
+y="476" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>muffin appear at random </text>
+
+<text 
+x="55" 
+y="499" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>locations on your screen: blocks like this are re-usable and </text>
+
+<text 
+x="55" 
+y="523" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>save you duplicating your code. </text>
+
+<text 
+x="277" 
+y="523" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>They also make your code </text>
+
+<text 
+x="55" 
+y="546" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>look neater and easier to understand.</text>
+
+<text 
+x="55" 
+y="585" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Call the block ‘reset’:</text>
+
+<text 
+x="55" 
+y="624" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Then add this code to the block:</text>
+
+<text 
+x="379" 
+y="704" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>When finished, test the new block by double-clicking it with your left </text>
+
+<text 
+x="379" 
+y="728" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>mouse button. </text>
+
+<text 
+x="488" 
+y="728" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>You should see a muffin appearing on the stage each </text>
+
+<text 
+x="379" 
+y="751" 
+dx="0,0,0,0,0,0" 
+class="s5_7"
+>time. </text>
+
+<text 
+x="422" 
+y="751" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>That’s what this block does.</text>
+
+<text 
+x="379" 
+y="790" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Add a variable to keep track of the score:</text>
+
+<text 
+x="347" 
+y="907" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>Add this code to turn on your webcam so that you can use your </text>
+
+<text 
+x="347" 
+y="930" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>movements (e.g. your head and hands) to interact with the game:</text>
+
+<text 
+x="347" 
+y="1008" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>When you press the green </text>
+
+<text 
+x="347" 
+y="1032" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>flag now, you should see </text>
+
+<text 
+x="347" 
+y="1055" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>your own reflection on the </text>
+
+<text 
+x="347" 
+y="1079" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>screen, a bit hazy: </text>
+
+<text 
+x="477" 
+y="1079" 
+dx="0,0,0,0,0" 
+class="s5_7"
+>(the </text>
+
+<text 
+x="347" 
+y="1102" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>muffin will fall to the </text>
+
+<text 
+x="347" 
+y="1126" 
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s5_7"
+>bottom of the screen)</text>
+
+<image x="494" y="211" width="336" height="302" xlink:href="7/img/1.png" />
+<image x="55" y="389" width="236" height="79" xlink:href="7/img/2.png" />
+<image x="389" y="539" width="442" height="110" xlink:href="7/img/3.png" />
+<image x="52" y="653" width="313" height="218" xlink:href="7/img/4.png" />
+<image x="694" y="756" width="138" height="110" xlink:href="7/img/5.png" />
+<image x="52" y="889" width="281" height="227" xlink:href="7/img/6.png" />
+<image x="544" y="956" width="295" height="246" xlink:href="7/img/7.png" />
+<path d="M402,307l40,0" class="g6_7" />
+<path fill-rule="evenodd" d="M447.3,307l-12.6,7.4l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0.1l-0.2,-0.1l-0.2,0l-0.1,0l-0.2,-0.1L433,314.4l-0.2,-0.1l-0.1,-0.1l-0.2,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.1l0,-0.2l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.2,-0.1l7.5,-4.4L433,302.6l-0.2,-0.1l-0.2,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.1l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.2l0,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0.1l0.2,0l0.2,0.1l0.1,0Z" class="g7_7" />
+<path d="M423.4,355.2l67.3,61.3" class="g6_7" />
+<path fill-rule="evenodd" d="M494,419.5l-14.4,-3.1l-0.2,0l-0.2,-0.1l-0.1,-0.1l-0.2,-0.1l-0.1,-0.2l-0.2,-0.1l-0.1,-0.1l-0.1,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0l0.2,0.1l8.5,1.8l-2.6,-8.3l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.1,0.1l0.2,0.1l0.2,0.1l0.1,0.2l0.1,0.1l0.2,0.2l0,0.2l0.1,0.1Z" class="g7_7" />
+<path d="M297,448l-38,0" class="g6_7" />
+<path fill-rule="evenodd" d="M255.3,448.5L268,441.1l0.1,-0.1l0.2,-0.1l0.2,0l0.2,-0.1l0.2,0l0.2,0.1l0.2,0l0.2,0.1l0.1,0l0.2,0.1l0.2,0.2l0.1,0.1l0.1,0.2l0.1,0.1l0.1,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l0,0.2l0,0.1l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.2l-0.2,0.1l-0.1,0.2l-0.1,0l-7.5,4.5l7.5,4.4l0.1,0.1l0.2,0.1l0.1,0.2l0.2,0.1l0.1,0.2l0,0.2l0.1,0.1l0,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l0,0.2l-0.1,0.1l-0.1,0.2l-0.1,0.1l-0.2,0.2l-0.1,0.1l-0.2,0.1l-0.2,0.1l-0.1,0l-0.2,0.1l-0.2,0l-0.2,0L268.5,456l-0.2,0l-0.2,-0.1L268,455.8Z" class="g7_7" />
+<path d="M221,582.4l184.5,18.2" class="g6_7" />
+<path fill-rule="evenodd" d="M410,601l-13.4,6.2l-0.2,0l-0.1,0.1l-0.2,0l-0.2,0l-0.2,0l-0.2,-0.1l-0.2,0l-0.2,-0.1L395,607l-0.2,-0.1l-0.1,-0.2l-0.2,-0.1l-0.1,-0.2l0,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.1l7.9,-3.6l-7,-5.2l-0.2,-0.1L395.8,595l-0.1,-0.2l-0.1,-0.2l-0.1,-0.2l-0.1,-0.1l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.1l0.2,-0.2l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,0l0.1,-0.1l0.2,0l0.2,0l0.2,0.1l0.2,0l0.2,0.1l0.2,0.1l0.1,0Z" class="g7_7" />
+<path d="M169,629l0,28" class="g6_7" />
+<path fill-rule="evenodd" d="M169.4,662.1L162,649.4l-0.1,-0.1l-0.1,-0.2l0,-0.2l-0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0,-0.1l0.2,-0.2l0.1,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.1,0l0.2,0.1l0.2,0.1l0.1,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0,0.1l4.5,7.5l4.4,-7.5l0.1,-0.2l0.1,-0.1l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,0l0.1,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.2,0l0.1,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.1l0.1,0.2l0.1,0.2l0,0.1l0.1,0.2l0,0.2l0,0.2l-0.1,0.2l0,0.2l-0.1,0.2l-0.1,0.1Z" class="g7_7" />
+<path d="M629,814l40,0" class="g6_7" />
+<path fill-rule="evenodd" d="M674.4,814.8l-12.6,7.4l-0.2,0l-0.2,0.1l-0.2,0.1l-0.2,0l-0.2,0l-0.2,0l-0.1,-0.1l-0.2,0l-0.2,-0.1l-0.2,-0.1l-0.1,-0.2l-0.2,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2l0,-0.1L659.2,821l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0,-0.2l0.1,-0.2l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.2,-0.1l7.5,-4.4l-7.5,-4.4l-0.2,-0.2l-0.2,-0.1L659.6,810l-0.1,-0.2l-0.1,-0.2l-0.1,-0.2l0,-0.1l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0.1,-0.2l0,-0.1l0.1,-0.2l0.2,-0.1l0.1,-0.2l0.2,-0.1l0.2,-0.1l0.1,0l0.2,-0.1l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0l0.2,0.1l0.1,0.1Z" class="g7_7" />
+<path d="M342,914l-47,0" class="g6_7" />
+<path fill-rule="evenodd" d="M290.6,914.4l12.7,-7.3l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.2,0l0.2,0l0.2,0.1l0.2,0l0.2,0l0.1,0.1l0.2,0.1l0.2,0.2l0.1,0.1l0.1,0.2l0.1,0.1l0.1,0.2l0.1,0.2l0,0.2l0,0.2l0,0.2l0,0.2l0,0.1l-0.1,0.2l-0.1,0.2l-0.1,0.1l-0.1,0.2l-0.1,0.1l-0.2,0.2l-0.1,0l-7.5,4.4l7.5,4.5l0.1,0.1l0.2,0.1l0.1,0.1l0.2,0.2l0.1,0.2l0,0.2l0.1,0.1l0,0.2l0,0.2l0,0.2l0,0.2l-0.1,0.2l0,0.2l-0.1,0.1l-0.1,0.2l-0.1,0.1l-0.2,0.2l-0.1,0.1l-0.2,0.1l-0.2,0.1l-0.1,0l-0.2,0l-0.2,0.1l-0.2,0L303.8,922l-0.2,0l-0.2,-0.1l-0.1,-0.1Z" class="g7_7" />
+<path d="M469,1143l52,0" class="g6_7" />
+<path fill-rule="evenodd" d="M526,1143.8l-12.6,7.4l-0.2,0.1l-0.2,0l-0.2,0.1l-0.2,0l-0.2,0l-0.2,0l-0.1,0l-0.2,-0.1l-0.2,-0.1l-0.2,-0.1l-0.2,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.1l0.1,-0.2l0.1,-0.2l0.1,-0.2l0.2,-0.1l0.1,-0.1l0.1,-0.1l7.5,-4.4l-7.5,-4.4l-0.1,-0.1l-0.2,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.1l-0.1,-0.2l-0.1,-0.2l0,-0.2l0,-0.2l0,-0.2l0,-0.2l0.1,-0.2l0,-0.1L511,1137l0.1,-0.1l0.1,-0.2l0.2,-0.1l0.2,-0.1l0.1,-0.1l0.2,-0.1l0.2,-0.1l0.1,0l0.3,0l0.2,0l0.2,0l0.1,0.1l0.2,0l0.2,0.1Z" class="g7_7" />
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: Cambria_2a;
+	src: url("fonts/Cambria_2a.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri_2e;
+	src: url("fonts/Calibri_2e.woff") format("woff");
+}
+
+@font-face {
+	font-family: Calibri-Bold_2c;
+	src: url("fonts/Calibri-Bold_2c.woff") format("woff");
+}
+
+]]></style>
+
+</svg>

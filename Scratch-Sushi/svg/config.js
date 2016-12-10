@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":12,"title":"","author":"","fileName":"Scratch_Sushi.pdf","bounds":[[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[909,1286],[1286,909],[1286,909],[1286,909],[1286,909]],"bookmarks":[],"thumbnailType":"jpg","pageType":"svg","pageLabels":[]};

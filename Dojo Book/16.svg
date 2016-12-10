@@ -1,0 +1,1138 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+
+<!-- Page 16 -->
+<svg x="0" y="0" width="1645" height="1061" viewBox="0 0 1645 1061" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+style="display: block;margin-left: auto;margin-right: auto;">
+<defs>
+
+<style type="text/css"><![CDATA[
+
+.g13_16{
+fill: none;
+stroke: #79ABD0;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g5_16{
+fill: #2E3092;
+}
+.g19_16{
+fill: none;
+stroke: #11151D;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 3;
+}
+.g6_16{
+fill: #F49AC2;
+}
+.g15_16{
+fill: none;
+stroke: #000000;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g14_16{
+fill: none;
+stroke: #457DB1;
+stroke-width: 1;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g18_16{
+fill: #11151D;
+}
+.g8_16{
+fill: #92BDDD;
+}
+.g16_16{
+fill: none;
+stroke: #FFD400;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g12_16{
+fill: #79ABD0;
+}
+.g17_16{
+fill: none;
+stroke: #92BDDD;
+stroke-width: 5;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+stroke-miterlimit: 4;
+}
+.g7_16{
+fill: #0CAD4A;
+}
+.g1_16{
+fill: #FAAD60;
+}
+.g10_16{
+fill: #B897C1;
+}
+.g9_16{
+fill: #FFFFFF;
+}
+.g11_16{
+fill: #457DB1;
+}
+.g2_16{
+fill: #FFD400;
+}
+.g20_16{
+fill: none;
+stroke: #11151D;
+stroke-width: 2;
+stroke-linecap: butt;
+stroke-linejoin: miter;
+}
+.g3_16{
+}
+.g4_16{
+fill: #ED1D24;
+}
+
+.s6_16{
+font-size: 15.28px;
+font-family: AndaleMono_1cn;
+fill: #11151D;
+}
+.s7_16{
+font-size: 15.28px;
+font-family: Helvetica_1e3;
+fill: #11151D;
+}
+.s8_16{
+font-size: 15.28px;
+font-family: Helvetica_1dx;
+fill: #11151D;
+}
+.s3_16{
+font-size: 18.33px;
+font-family: Wingdings-Regular_1c4;
+fill: #11151D;
+}
+.s9_16{
+font-size: 12.22px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s5_16{
+font-size: 21.39px;
+font-family: PixelSplitter-Bold_1bs;
+fill: #11151D;
+}
+.s4_16{
+font-size: 15.28px;
+font-family: Helvetica-Bold_1bu;
+fill: #11151D;
+}
+.s1_16{
+font-size: 33.61px;
+font-family: PixelSplitter-Bold_ev;
+fill: #FFFFFF;
+}
+.s2_16{
+font-size: 15.28px;
+font-family: Helvetica-Light_1by;
+fill: #11151D;
+}
+
+]]></style>
+
+</defs>
+<path d="M0,0
+L0,1061
+L1645,1061
+L1645,0 Z " 
+fill="#FFFFFF" stroke="none" />
+<image x="-33" y="-32" width="1713" height="1115" xlink:href="16/img/1.png" />
+<image x="-13" y="-11" width="1674" height="1073" opacity="0.5" xlink:href="16/img/2.png" />
+<image x="809" y="-32" width="872" height="1112" xlink:href="16/img/3.png" />
+<path d="M47,48l0,4l-4,0l0,40l4,0l0,5l188,0l0,-5l5,0l0,-40l-5,0l0,-4Z" class="g1_16" />
+<path d="M47,278l0,4l-4,0l0,88l4,0l0,4l92,0l0,-96Z" class="g2_16" />
+<image x="41" y="282" width="88" height="89" xlink:href="16/img/4.png" />
+<path d="M47,705l0,5l-4,0l0,99l4,0l0,4l100,0l0,-4l4,0l0,-99l-4,0l0,-5Z" class="g3_16" />
+<path d="M173,705l0,5l-5,0l0,99l5,0l0,4l99,0l0,-4l5,0l0,-99l-5,0l0,-5Z" class="g4_16" />
+<path d="M298,705l0,5l-4,0l0,99l4,0l0,4l100,0l0,-4l4,0l0,-99l-4,0l0,-5Z" class="g5_16" />
+<path d="M424,705l0,5l-4,0l0,99l4,0l0,4l100,0l0,-4l4,0l0,-99l-4,0l0,-5Z" class="g1_16" />
+<path d="M550,705l0,5l-5,0l0,99l5,0l0,4l99,0l0,-4l4,0l0,-99l-4,0l0,-5Z" class="g6_16" />
+<path d="M675,705l0,5l-4,0l0,99l4,0l0,4l100,0l0,-4l4,0l0,-99l-4,0l0,-5Z" class="g7_16" />
+<path d="M49,826l0,4l-4,0l0,88l4,0l0,4l92,0l0,-96Z" class="g8_16" />
+<image x="50" y="830" width="87" height="89" xlink:href="16/img/5.png" />
+<path d="M49,107l0,4l-5,0l0,152l5,0l0,4l460,0l0,-4l4,0l0,-152l-4,0l0,-4Z" class="g9_16" />
+<path d="M1414,54l0,4l-5,0l0,233l5,0l0,4l183,0l0,-4l5,0l0,-233l-5,0l0,-4Z" class="g10_16" />
+<path d="M1345,395l0,4l-4,0l0,72l4,0l0,4l253,0l0,-4l4,0l0,-72l-4,0l0,-4Z" class="g1_16" />
+<path d="M1473,182l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1481,174l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1489,182l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1481,182l-8,0l0,-8l8,0l0,8Z" class="g12_16" />
+<path d="M1489,190l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1481,199l-8,0l0,-9l8,0l0,9Z" class="g11_16" />
+<path d="M1473,199l-8,0l0,-9l8,0l0,9Z" class="g11_16" />
+<path d="M1473,190l-8,0l0,-8l8,0l0,8Z" class="g12_16" />
+<path d="M1457,231l-9,0l0,-8l9,0l0,8Z" class="g11_16" />
+<path d="M1448,239l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1457,239l-9,0l0,-8l9,0l0,8Z" class="g12_16" />
+<path d="M1465,239l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1448,247l-8,0l0,-8l8,0l0,8Z" class="g12_16" />
+<path d="M1457,247l-9,0l0,-8l9,0l0,8Z" class="g12_16" />
+<path d="M1465,247l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1440.5,247.5l8,0" class="g13_16" />
+<path d="M1440.5,247.5l8,0" class="g13_16" />
+<path d="M1448.5,247.5l9,0" class="g13_16" />
+<path d="M1448.5,247.5l9,0" class="g13_16" />
+<path d="M1457.5,247.5l8,0" class="g14_16" />
+<path d="M1457.5,247.5l8,0" class="g14_16" />
+<path d="M1432,256l8,0l0,-9l-8,0l0,9Z" class="g3_16" />
+<path d="M1448,256l-8,0l0,-9l8,0l0,9Z" class="g11_16" />
+<path d="M1457,256l-9,0l0,-9l9,0l0,9Z" class="g11_16" />
+<path d="M1465,256l-8,0l0,-9l8,0l0,9Z" class="g11_16" />
+<path d="M1473,256l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1432.5,256.5l8,0" class="g15_16" />
+<path d="M1432.5,256.5l8,0" class="g15_16" />
+<path d="M1440.5,256.5l8,0" class="g13_16" />
+<path d="M1440.5,256.5l8,0" class="g13_16" />
+<path d="M1448.5,256.5l9,0" class="g13_16" />
+<path d="M1448.5,256.5l9,0" class="g13_16" />
+<path d="M1457.5,256.5l8,0" class="g13_16" />
+<path d="M1457.5,256.5l8,0" class="g13_16" />
+<path d="M1465.5,256.5l8,0" class="g15_16" />
+<path d="M1465.5,256.5l8,0" class="g15_16" />
+<path d="M1440,264l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1448,264l9,0l0,-8l-9,0l0,8Z" class="g3_16" />
+<path d="M1457,264l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1465,207l-8,0l0,-9l8,0l0,9Z" class="g11_16" />
+<path d="M1497,174l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1489,174l-8,0l0,-8l8,0l0,8Z" class="g12_16" />
+<path d="M1497,182l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1505,166l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1497,166l-8,0l0,-8l8,0l0,8Z" class="g12_16" />
+<path d="M1505,174l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1514,158l-9,0l0,-8l9,0l0,8Z" class="g9_16" />
+<path d="M1505,158l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1514,166l-9,0l0,-8l9,0l0,8Z" class="g11_16" />
+<path d="M1522,150l-8,0l0,-9l8,0l0,9Z" class="g9_16" />
+<path d="M1514,150l-9,0l0,-9l9,0l0,9Z" class="g9_16" />
+<path d="M1522,158l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1530,141l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1530,133l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1538,141l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1522,141l-8,0l0,-8l8,0l0,8Z" class="g9_16" />
+<path d="M1530,150l-8,0l0,-9l8,0l0,9Z" class="g9_16" />
+<path d="M1481,190l-8,0l0,-8l8,0l0,8Z" class="g11_16" />
+<path d="M1489,166l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1497,158l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1505,150l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1514,141l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1522,133l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1538,150l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1530,158l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1522,166l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1514,174l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1505,182l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1497,190l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1489,199l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1481,207l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1473,207l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1465,199l-9,0l0,-9l9,0l0,9Z" class="g3_16" />
+<path d="M1465,190l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1457,207l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1465,215l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1465,231l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1473,239l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1473,247l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1448,231l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1432,239l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1432,247l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1440.5,264.5l8,0" class="g15_16" />
+<path d="M1448.5,264.5l9,0" class="g15_16" />
+<path d="M1457.5,264.5l8,0" class="g15_16" />
+<path d="M1530,125l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1538,125l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1546,125l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1554,125l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1554,133l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1554,141l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1546,141l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1546,133l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1538,133l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1554,150l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1457,223l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1563,125l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1571,125l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1538,117l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1546,117l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1554,117l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1563,117l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1571,117l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1571,117l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1530,117l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1522,117l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1546,109l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1554,109l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1563,109l-9,0l0,-8l9,0l0,8Z" class="g3_16" />
+<path d="M1571,109l-8,0l0,-8l8,0l0,8Z" class="g3_16" />
+<path d="M1571,109l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1554,101l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1563,101l-9,0l0,-9l9,0l0,9Z" class="g3_16" />
+<path d="M1571,101l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M1571,101l8,0l0,-9l-8,0l0,9Z" class="g3_16" />
+<path d="M1554,92l9,0l0,-8l-9,0l0,8Z" class="g3_16" />
+<path d="M1563,92l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1546,92l8,0l0,-8l-8,0l0,8Z" class="g3_16" />
+<path d="M1546,101l-8,0l0,-9l8,0l0,9Z" class="g3_16" />
+<path d="M142,325l0,82l2,0l2,0l0,2l0,2l361,0l0,-2l0,-2l2,0l2,0l0,-77l-2,0l-2,0l0,-3l0,-2Z" class="g9_16" />
+<path d="M142.5,325.5l0,82l2,0l2,0l0,2l0,2l361,0l0,-2l0,-2l2,0l2,0l0,-77l-2,0l-2,0l0,-3l0,-2l-365,0Z" class="g16_16" />
+<path d="M139,278l0,45l152,0l0,-41l-4,0l0,-4Z" class="g2_16" />
+<path d="M141,826l0,46l295,0l0,-42l-5,0l0,-4Z" class="g8_16" />
+<path d="M143,864l0,141l3,0l2,0l0,3l0,2l624,0l0,-2l0,-3l3,0l2,0l0,-137l-2,0l-3,0l0,-2l0,-2Z" class="g9_16" />
+<path d="M143.5,864.5l0,141l3,0l2,0l0,3l0,2l624,0l0,-2l0,-3l3,0l2,0l0,-137l-2,0l-3,0l0,-2l0,-2l-629,0Z" class="g17_16" />
+<image x="506" y="26" width="291" height="440" xlink:href="16/img/6.png" />
+<image x="493" y="394" width="316" height="73" style="mix-blend-mode: multiply;" xlink:href="16/img/7.png" />
+<path d="M47,48l0,4l-4,0l0,40l4,0l0,5l188,0l0,-5l5,0l0,-40l-5,0l0,-4Z" class="g18_16" />
+<text 
+x="60" 
+y="86" 
+dx="0,-4,-2.6,-4.5,-2.8,-2.7,-3.6" 
+class="s1_16"
+>Colours</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 128)"
+dx="0,-0.3,0,0,0,0,0.9,0,0,-0.3,0,0,0,0,0.9,0,0,0,0,0,0.9,0,0,0,0,0.9,0,0,0.9,0,0,-0.3,0,0.9,0,0,0,0,0,0,0,0.9,0,0,0,0.9,0,0,0,0,0.9,0,0,0.9,0,0,0,0.9,0,0,0,0,0,0" 
+class="s2_16"
+>We’ve already seen, when we were styling the menu or the table, </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 150)"
+dx="0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0" 
+class="s2_16"
+>that we can add colour to our pages in several ways. For example:</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 171)"
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 85, 171)"
+dx="0,-0.3,0,-0.4,0,0,0,-0.4,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,0,-0.3,0,0,0,0,-0.4,0,0,0,0,0,0,-0.4,0,0,-0.4,0,0,-0.4,0,0,0,0,0,0,0,-0.4,0,0,0,-0.4,0,0,0,0,-0.4,0,0,0,0" 
+class="s2_16"
+>We can set the background colour of an element (we used this </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 85, 193)"
+dx="0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.3,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0" 
+class="s2_16"
+>to make the background of our menu purple)</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 214)"
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 85, 214)"
+dx="0,-0.3,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0" 
+class="s2_16"
+>We can set the colour of the text</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 235)"
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 85, 235)"
+dx="0,-0.3,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,-0.3,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0" 
+class="s2_16"
+>We also can set the colours of borders and links</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 58, 257)"
+dx="0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,-0.3,0,0" 
+class="s2_16"
+>In fact, just about anything on the page can be coloured.</text>
+
+<text 
+x="153" 
+y="353" 
+dx="0,0,0,0.1,0,0,0,0,0.1,0,0,0.1,0,0,0,0,0,0,0.1,0,0,0,0.1,0,0,0,0,0,0,0,0,0.1,0,0,0,0,0,0,0,0,0,0.1,0,0.1,0,0,0.1,0,0" 
+class="s2_16"
+>In CSS, we always use American spellings – so we </text>
+
+<text 
+x="153" 
+y="374" 
+dx="0,0,0,0" 
+class="s2_16"
+>use </text>
+
+<text 
+x="184" 
+y="374" 
+dx="0,0,0,0,0" 
+class="s4_16"
+>color</text>
+
+<text 
+x="222" 
+y="374" 
+dx="0,0,2.9,0,0,0,2.9,0,0,0,0,0,-1.4,0,2.9,0,0,0" 
+class="s2_16"
+>, not colour, and </text>
+
+<text 
+x="347" 
+y="374" 
+dx="0,0,0,-0.3" 
+class="s4_16"
+>Gray</text>
+
+<text 
+x="389" 
+y="374" 
+dx="0,0,0,0,0,0,0,0,2.9,0,0,2.9,0,-0.3,0,-1.4,0" 
+class="s2_16"
+>instead of grey. </text>
+
+<text 
+x="153" 
+y="396" 
+dx="0,0,0,0,0,-1.1,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0" 
+class="s2_16"
+>That’s just something you’ll have to get used to!</text>
+
+<text 
+x="144" 
+y="310" 
+dx="0,-2.1,-2.1,-2.9,-1.8,0,0,-2.6,-2.1" 
+class="s5_16"
+>NINJA TIP</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1355, 417)"
+dx="0,0,0,-1.8" 
+class="s6_16"
+>h1 {</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1355, 439)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0" 
+class="s6_16"
+>background-color:#C0C0FF;</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1355, 460)"
+dx="0" 
+class="s6_16"
+>}</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 439)"
+dx="0,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,-0.9,0,0,0,-0.9,0,0,-0.3,0,0,-0.3,0,0,0,-0.9,0,0,0,0" 
+class="s2_16"
+>Colours can be set in two different ways:</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 460)"
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 83, 460)"
+dx="0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,0,-0.9,0,0" 
+class="s2_16"
+>you can give a name for a colour (such as </text>
+
+<path d="M368.6,449.9l-2.5,4.7l-2.5,-4.7l-1.3,0l3.2,6l0,4.5l1.2,0l0,-4.5l3.2,-6l-1.3,0Z" class="g19_16" />
+<path d="M378.3,456.2c0,-1.2,-0.3,-2.1,-0.9,-2.7c-0.6,-0.7,-1.3,-1.1,-2.2,-1.1c-1,0,-1.8,0.4,-2.4,1.1c-0.7,0.8,-1,1.7,-1,3c0,1.2,0.4,2.2,1.1,3c0.7,0.7,1.6,1.1,2.7,1.1c0.9,0,1.7,-0.2,2.4,-0.5l-0.2,-0.9c-0.8,0.3,-1.5,0.4,-2.2,0.4c-0.7,0,-1.3,-0.3,-1.8,-0.9c-0.5,-0.6,-0.8,-1.3,-0.8,-2.2l5.3,0l0,-0.3Zm-5.2,-0.6c0.1,-0.6,0.3,-1.2,0.7,-1.6c0.3,-0.4,0.8,-0.6,1.4,-0.6c0.5,0,0.9,0.2,1.3,0.7c0.3,0.4,0.5,0.9,0.5,1.5l-3.9,0Z" class="g19_16" />
+<path d="M386.5,459.5l-2,0l0,-10l-3,0l0,1l2,0l0,10l3,0l0,-1Z" class="g19_16" />
+<path d="M395.5,459.5l-2,0l0,-10l-3,0l0,1l2,0l0,10l3,0l0,-1Z" class="g19_16" />
+<path d="M399.6,453.5c-0.6,0.8,-0.9,1.8,-0.9,3c0,1.2,0.3,2.2,0.9,3c0.6,0.7,1.5,1.1,2.5,1.1c1.1,0,1.9,-0.4,2.5,-1.1c0.6,-0.8,0.9,-1.8,0.9,-3c0,-1.2,-0.3,-2.2,-0.9,-3c-0.6,-0.7,-1.4,-1.1,-2.5,-1.1c-1,0,-1.9,0.4,-2.5,1.1Zm0.9,5.2c-0.4,-0.6,-0.6,-1.3,-0.6,-2.2c0,-0.9,0.2,-1.6,0.6,-2.2c0.4,-0.6,0.9,-0.9,1.6,-0.9c0.7,0,1.3,0.3,1.7,0.9c0.4,0.6,0.6,1.3,0.6,2.2c0,0.9,-0.2,1.6,-0.6,2.2c-0.5,0.6,-1,0.9,-1.7,0.9c-0.7,0,-1.2,-0.3,-1.6,-0.9Z" class="g19_16" />
+<path d="M413.8,452.6l-0.6,5.7L411.8,455l-1.2,0l-1.4,3.3c0,-0.1,-0.2,-2.1,-0.6,-5.7l-1.1,0l1,7.8l0.9,0l1.8,-4.4l1.8,4.4l0.9,0l1.1,-7.8l-1.2,0Z" class="g19_16" />
+<text 
+transform="matrix(0.98, 0, 0, 1, 361, 460)"
+dx="0,0,0,0,0,0" 
+class="s6_16"
+>Yellow</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 415, 460)"
+dx="0" 
+class="s2_16"
+>)</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 481)"
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 83, 481)"
+dx="0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,-0.9,0" 
+class="s2_16"
+>you can enter a </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 188, 481)"
+dx="0,0,-0.2,0,0,0,0,0,0,0,0,0,-0.9,0,0,0" 
+class="s4_16"
+>hexadecimal code</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 320, 481)"
+dx="0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0" 
+class="s2_16"
+>(six characters beginning with a </text>
+
+<path d="M543.2,477.8l-2.1,0l0.6,-2.6l1.5,0l0,-1l-1.3,0l0.6,-2.9l-1,0l-0.7,2.9l-1.9,0l0.6,-2.9l-1,0l-0.7,2.9l-2.3,0l0,1l2.1,0l-0.5,2.6l-1.6,0l0,1l1.4,0l-0.6,3l1,0l0.6,-3l2,0l-0.6,3l1,0l0.6,-3l2.3,0l0,-1Zm-3.1,0l-2,0l0.6,-2.6l2,0l-0.6,2.6Z" class="g19_16" />
+<text 
+transform="matrix(0.98, 0, 0, 1, 534, 481)"
+dx="0" 
+class="s6_16"
+>#</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 547, 481)"
+dx="0,0,0,0,0,0,0,-0.9,0,-0.9,0,0,0,0,-0.9,0,0" 
+class="s2_16"
+>symbol – such as </text>
+
+<path d="M673.2,477.8l-2.1,0l0.5,-2.6l1.6,0l0,-1l-1.4,0l0.6,-2.9l-1,0l-0.6,2.9l-2,0l0.6,-2.9l-1,0l-0.6,2.9l-2.4,0l0,1l2.2,0l-0.6,2.6l-1.6,0l0,1l1.4,0l-0.6,3l1,0l0.7,-3l1.9,0l-0.6,3l1,0l0.7,-3l2.3,0l0,-1Zm-3.2,0l-1.9,0l0.5,-2.6l2,0l-0.6,2.6Z" class="g19_16" />
+<path d="M679.5,476c0.6,-0.2,1.1,-0.5,1.4,-0.9c0.3,-0.4,0.5,-0.8,0.5,-1.3c0,-0.8,-0.3,-1.4,-0.9,-1.9c-0.5,-0.4,-1.3,-0.6,-2.3,-0.6l-2.9,0l0,10.5l3,0c0.9,0,1.7,-0.3,2.4,-0.9c0.7,-0.5,1,-1.3,1,-2.3c0,-0.6,-0.2,-1.2,-0.5,-1.6c-0.4,-0.5,-1,-0.8,-1.7,-1Zm-3,-3.7l1.5,0c0.7,0,1.2,0.2,1.6,0.4c0.4,0.3,0.5,0.6,0.5,1.1c0,1.1,-0.7,1.6,-2.2,1.6l-1.4,0l0,-3.1Zm0,4.2l1.3,0c0.9,0,1.5,0.2,2,0.6c0.5,0.3,0.7,0.9,0.7,1.5c0,0.7,-0.3,1.2,-0.7,1.6c-0.5,0.3,-1.1,0.5,-1.9,0.5l-1.4,0l0,-4.2Z" class="g19_16" />
+<path d="M686,472.3l3.7,0l0,-1l-4.8,0l0,5l0.7,0.3c0.5,-0.1,0.9,-0.2,1.3,-0.2c0.6,0,1,0.2,1.4,0.5c0.4,0.4,0.6,1,0.6,1.7c0,0.7,-0.2,1.3,-0.6,1.7c-0.4,0.4,-0.9,0.6,-1.6,0.6c-0.7,0,-1.3,-0.1,-2,-0.4l-0.3,1c0.7,0.3,1.4,0.5,2.3,0.5c1,0,1.8,-0.4,2.4,-1c0.7,-0.7,1,-1.5,1,-2.4c0,-1,-0.3,-1.7,-0.8,-2.3c-0.6,-0.6,-1.4,-0.9,-2.3,-0.9c-0.4,0,-0.7,0,-1,0.1l0,-3.2Z" class="g19_16" />
+<path d="M699.4,471.3l-6.1,0l0,1l4.8,0l-4,9.5l1.2,0l4.1,-9.7l0,-0.8Z" class="g19_16" />
+<path d="M708.4,471.3l-6.1,0l0,1l4.8,0l-4,9.5l1.2,0l4.1,-9.7l0,-0.8Z" class="g19_16" />
+<path d="M715.6,476c0.5,-0.2,1,-0.5,1.3,-0.9c0.3,-0.4,0.5,-0.8,0.5,-1.3c0,-0.8,-0.3,-1.4,-0.8,-1.9c-0.6,-0.4,-1.4,-0.6,-2.4,-0.6l-2.9,0l0,10.5l3,0c0.9,0,1.8,-0.3,2.4,-0.9c0.7,-0.5,1.1,-1.3,1.1,-2.3c0,-0.6,-0.2,-1.2,-0.6,-1.6c-0.4,-0.5,-0.9,-0.8,-1.6,-1Zm-3,-3.7l1.4,0c0.7,0,1.3,0.2,1.6,0.4c0.4,0.3,0.6,0.6,0.6,1.1c0,1.1,-0.8,1.6,-2.2,1.6l-1.4,0l0,-3.1Zm0,4.2l1.2,0c0.9,0,1.6,0.2,2,0.6c0.5,0.3,0.7,0.9,0.7,1.5c0,0.7,-0.2,1.2,-0.7,1.6c-0.5,0.3,-1.1,0.5,-1.9,0.5l-1.3,0l0,-4.2Z" class="g19_16" />
+<path d="M722,472.3l3.7,0l0,-1l-4.7,0l0,5l0.7,0.3c0.4,-0.1,0.8,-0.2,1.2,-0.2c0.6,0,1.1,0.2,1.4,0.5c0.4,0.4,0.6,1,0.6,1.7c0,0.7,-0.2,1.3,-0.6,1.7c-0.4,0.4,-0.9,0.6,-1.5,0.6c-0.7,0,-1.4,-0.1,-2.1,-0.4l-0.2,1c0.6,0.3,1.3,0.5,2.2,0.5c1,0,1.8,-0.4,2.5,-1c0.6,-0.7,0.9,-1.5,0.9,-2.4c0,-1,-0.2,-1.7,-0.8,-2.3c-0.6,-0.6,-1.3,-0.9,-2.3,-0.9c-0.3,0,-0.7,0,-1,0.1l0,-3.2Z" class="g19_16" />
+<text 
+transform="matrix(0.98, 0, 0, 1, 664, 481)"
+dx="0,0,0,0,0,0,0" 
+class="s6_16"
+>#B577B5</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 727, 481)"
+dx="0" 
+class="s2_16"
+>)</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 524)"
+dx="0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,-0.3,0,1.7,0,0,0,0,0,0,1.7,0,0,1.7,0,0,1.7,0,0,0,1.7,0,0,1.7,0,0,0,1.7,0,0,0,0,0,0,1.7,0,0,0,1.7,0,0,0,0,0,1.7,0,0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,1.7,0,0,0,0,0,0,0,0,1.7,0,1.7,0,0,0,0,0,0,1.7,0,0,0,0,1.7,0,0" 
+class="s2_16"
+>What we haven’t looked at is how we can choose the exact colour we want. Entering a colour name is </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 545)"
+dx="0,0,0,0,0,0,2.3,0,0,0,2.3,0,0,0,0,2.3,0,0,2.3,0,0,0,2.3,0,0,0,-0.3,0,2.3,0,0,0,0,2.3,0,0,0,2.3,0,0,0,0,0,-0.3,0,0,0,0,2.3,0,0,2.3,0,0,0,0,2.3,0,0,0,0,2.3,0,0,2.3,0,0,2.3,0,0,0,0,2.3,0,0,0,0,0,0,0,2.3,0,0,0,2.3,0,0,2.3,0,0,0,0,0,2.3,0,0,0,0,0,2.3,0,0" 
+class="s2_16"
+>fine, but what if you don’t want the background of your menu to be just ‘blue’, but an exact shade of </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 567)"
+dx="0,0,0,0,1.5,0,0,0,0,0,1.5,0,0,0,0,1.5,0,0,1.5,0,0,0,-0.3,0,1.5,0,0,0" 
+class="s2_16"
+>sky blue? This is where the </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 249, 567)"
+dx="0,0,-0.2,0,1.5,0,0,0,0" 
+class="s4_16"
+>hex codes</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 329, 567)"
+dx="0,0,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,0,0,0,0,0,1.5,0,0,0,1.5,0,0,0,1.5,0,0,1.5,0,0,0,0,1.5,0,0,-0.3,0,0,0,1.5,0,-0.3,0,1.5,0,0,0,0,1.5,0,-0.3,0,0" 
+class="s2_16"
+>come in. All the colours you see on your screen are made from </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 588)"
+dx="0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,1.3,-0.3,0,0,0,1.3,0,-0.3,0,0,0,1.3,0,0,0,1.3,0,0,0,0,1.3,0,0,0,0,0,1.3,0,0,1.3,0,0,-0.3,0,0,-0.3,0,0,0,1.3,0,0,0,0,0,0,1.3,0,0,1.3,0,0,0,0,0,0,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,1.3,0,-0.3,0,1.3,0,0,0,0,1.3,0,1.3,0,0,0,1.3,0,0" 
+class="s2_16"
+>a combination of red, green and blue light at different levels of brightness. Hex codes are just a way of </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 610)"
+dx="0,0,0,0,0,0,0,0,3.8,0,0,0,3.8,-0.3,0,0,0,3.8,0,0,0,0,3.8,0,0,0,3.8,0,-0.3,0,0,0,3.8,0,0,0,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,0,0,0,0,0,0,3.8,0,0,0,0,0,3.8,0,0,0" 
+class="s2_16"
+>setting the red, blue and green values. The first two characters after the </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 587, 610)"
+dx="0" 
+class="s6_16"
+>#</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 604, 610)"
+dx="0,-0.3,0,0,-0.3,0,0,0,0,0,3.8,0,0,0,3.8,-0.3,0,0,3.8,0,0,0.3,0,0" 
+class="s2_16"
+>represent the red part, </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 631)"
+dx="0,0,0,0,3.8,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,0,0,0,0,0,0,3.8,-0.3,0,0,-0.3,0,0,0,0,0,3.8,0,0,0,3.8,0,-0.3,0,0,0,3.8,0,0,0.3,0,0,3.8,0,0,0,3.8,0,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,0,0,0,0,0,0,3.8,0,0,0,0,0.3,0,0,0,0,3.8,0,0,0,3.8,0,0,0,0,3.8,0,0,0.3,0,0" 
+class="s2_16"
+>the next two characters represent the green part, the final two characters determine the blue part. </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 652)"
+dx="0,0,0,-0.3,0,-0.9,0,-0.3,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,0" 
+class="s2_16"
+>Here are some examples:</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 75)"
+dx="0,0,0,0,0,2.4,0,0,0,0,0.3,0,2.4,0,0,2.4,0,0,0,2.4,0,0,0.3,0,2.4,0,0,0,0,2.4,0,2.4,0,0,0,2.4,0,0,0,2.4,0,0,0,2.4,0,0,0,2.4,0,0,0,0,0,0,0,0,2.4,0,0,0,2.4,0,0,0,2.4,0,0,0,0,2.4,0,0,2.4,0" 
+class="s2_16"
+>This theory is all very well – but how can you actually get the code of a </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 96)"
+dx="0,0,0,0.3,0,0,0,0,0,0,0,-0.9,0,0,0,0,0,0" 
+class="s2_16"
+>particular colour?</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 139)"
+dx="0,0,0,0,-0.3,0,-0.9,0,-0.3,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0" 
+class="s2_16"
+>There are two main ways:</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 160)"
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 906, 160)"
+dx="0,0,0,3.1,0,0,0,3.1,0,0,0,0,3.1,0,0,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,3.1,0,-0.3,0,0,0,0,0,3.1,0,0,0,0,3.1,0,0,3.1,0,0,0,3.1,0,0,0,3.1,0,0,0,3.1,0,0,0,0,0" 
+class="s2_16"
+>If you have an image-editing program such as the The GNU Image </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 906, 182)"
+dx="0,0,0,0,0,0,0,0,0,0,0,0,0,2.4,0,-0.3,0,0,0,0,0,2.4,0,0,0,0,0,0,0,2.4,0,0,0,0,0,2.4,0,0,0,0,0,0,0,0,0,2.4,0,0,2.4,0,0,-0.3,0,0,2.4,0,0,0,0,0,2.4,0,0,0,0" 
+class="s2_16"
+>Manipulation Program (GIMP), Adobe Photoshop or Corel Paint Shop </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 906, 203)"
+dx="0,0,-0.3,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0,-0.6,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,-0.6,0,0,-0.6,0,0,0,0,0,0,-0.6,0,0,0,0,0,0,0,0,-0.6,0,0,0,0,0,-0.6,0,0,0,0,-0.6,0,0,0,0,0,0,-0.6,0,0,0" 
+class="s2_16"
+>Pro, you can use the colour picker or colour selector tool. This allows you </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 906, 225)"
+dx="0,0,0,1.3,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,0,0,0,1.3,0,0,0,0,1.3,0,1.3,0,0,0.3,0,0,0,0,0,0,0,1.3,0,0,0.3,0,1.3,0,0,1.3,0,0,1.3,0,0,0,0,0,1.3,0,0,0,1.3,0,0,0,1.3,0,0,0,1.3,0,0,0" 
+class="s2_16"
+>to hover the cursor over a particular part of an image and get the hex </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 906, 246)"
+dx="0,0,0,0,0,0,1.4,0,0,1.4,0,0,0,1.4,0,0,0,0,0,-1.4,0,1.4,0,0,1.4,0,0,0,1.4,0,0,0,1.4,0,0,0,1.4,0,0,0,0,1.4,0,1.4,0,0,0,0,0,0,1.4,0,0,0,1.4,0,0,0,0,1.4,0,1.4,0,0,0,0,0,0" 
+class="s2_16"
+>value of the colour. Or you can pop open a window and pick a colour </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 906, 267)"
+dx="0,0,-0.3,0,0,-0.9,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,-0.9,0,-0.9,0,0,0,0,0,0,-0.9,0,0,0,0,0" 
+class="s2_16"
+>from a colour palette or a colour wheel.</text>
+
+<text 
+x="879" 
+y="289" 
+dx="0" 
+class="s3_16"
+>[</text>
+
+<text 
+x="906" 
+y="289" 
+dx="0,0,0,3,0,0,0,3,0,0,0,-0.3,0,3,0,0,0,0,3,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,3,0,-0.3,0,0,0,0,0,3,0,0,0,3,0,0,0,3,0,0,0,3,0,0,3,0,0,0,0,0,0" 
+class="s2_16"
+>If you don’t have an image-editing program you can use an online </text>
+
+<text 
+x="906" 
+y="310" 
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,0,0,-1.4" 
+class="s2_16"
+>colour picker.</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 353)"
+dx="0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0.6,0,0,0.6,0,0.6,0,0,0,0,0,-1.4,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0,0.6,0,0,0.6,0,0,0.6,0,0,0,0,0.6,0,0,0,0,0,0,0,0,0,0,0,0.6,0,0,0,0.6,0,0,0,0,0,0,0,0,0.6,0,0,0.6,0,0,0,0,0,0,0.6,0,0,0.6,0,0,0" 
+class="s2_16"
+>Once you have the hex value of a colour, you can use it in your stylesheet. For example, if C0C0FF is the </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 374)"
+dx="0,0,0,0,0,0.7,0,0,0,0.7,0,0,0,0.7,0,0,0,0,0,0.7,0,0,0,0,0,0,0.7,0,0,0,0,0.7,0,0,0,0,0,0,0.7,0,0,0,0.7,0,0,0,0,0.7,0,0,0.7,0,0,0,0.7,0,0,0.7,0,0.7,0,0,0,0,0,-0.3,0,0,0,0,0.7,0,0,0,0,0,0,0.7,0,0,0,0.7,0,0,0,0" 
+class="s2_16"
+>code for the exact pastel blue colour you want to use as a background colour for your </text>
+
+<path d="M1477.3,369.5c0,-1.7,-0.7,-2.6,-2.1,-2.6c-0.9,0,-1.8,0.4,-2.6,1.3l0,-3.9l-1.2,0l0,10.5l1.2,0l0,-5.6c0.8,-0.9,1.5,-1.3,2.2,-1.3c0.5,0,0.8,0.1,1,0.4c0.3,0.4,0.4,0.9,0.4,1.6l0,4.9l1.1,0l0,-5.3Z" class="g19_16" />
+<path d="M1486.3,373.8l-2,0l0,-9.6l-1.1,0l-2.2,1.2l0,1.2l2.1,-1l0,8.2l-2.2,0l0,1l5.4,0l0,-1Z" class="g19_16" />
+<text 
+transform="matrix(0.98, 0, 0, 1, 1469, 374)"
+dx="0,0" 
+class="s6_16"
+>h1</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 1492, 374)"
+dx="0,0,0,0,0,0.7,0,0,0,0,0,0,0,0" 
+class="s2_16"
+>main heading, </text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 879, 396)"
+dx="0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,-0.9,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0,0,0,0,0,0,0" 
+class="s2_16"
+>simply add the following rule to your stylesheet:</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 56, 684)"
+dx="0,0,0,0,0,0,0" 
+class="s2_16"
+>#000000</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 185, 684)"
+dx="0,0,0,0,0,0,0" 
+class="s2_16"
+>#E60000</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 314, 684)"
+dx="0,0,0,0,0,0,0" 
+class="s2_16"
+>#0000CC</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 443, 684)"
+dx="0,0,0,0,0,0,0" 
+class="s2_16"
+>#FF8C19</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 573, 684)"
+dx="0,0,0,0,0,0,0" 
+class="s2_16"
+>#EE82EE</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 702, 684)"
+dx="0,0,0,0,0,0,0" 
+class="s2_16"
+>#00E600</text>
+
+<text 
+x="150" 
+y="856" 
+dx="0,-1.7,-1.7,-2.1,-2.2,0,0,-2.2,0,0,-1.9,-2.6,-1.7,-2.6,-1.9,-1.8,-2.6" 
+class="s5_16"
+>WORDS TO REMEMBER</text>
+
+<text 
+x="154" 
+y="888" 
+dx="0,0,-0.2,0,1.7,0,0,0,0" 
+class="s4_16"
+>Hex code </text>
+
+<text 
+x="230" 
+y="888" 
+dx="0,0,1.7,0,0,0,0,1.7,0,0,0,1.7,0,0,0,0,1.7,0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,1.7,0,0,1.7,0,0,0,0,0,0,0,1.7,0,0,0,1.7,-0.3,0,0,0,0,0,1.7,0,0,0,0,1.7,0,-0.3,0,1.7,0,0,0,0,0,0,1.7,0,0,0" 
+class="s2_16"
+>– Have you done bases in maths at school? The reason they are called hex </text>
+
+<text 
+x="154" 
+y="909" 
+dx="0,0,0,0,0,0,-0.9,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,0,0,0,-0.9,0,-0.3,0,-0.9,0,0,-0.9,0,0,0,0,-0.9,0,0,0,-0.9,0,0,0,0,-0.9,0,0,0,0" 
+class="s2_16"
+>codes is because the numbers are in base 16. Like this:</text>
+
+<path d="M173,929l83,0" class="g20_16" />
+<path d="M173,958l0,-29" class="g20_16" />
+<path d="M256,929l31,0" class="g20_16" />
+<path d="M256,958l0,-29" class="g20_16" />
+<path d="M287,929l30,0" class="g20_16" />
+<path d="M287,958l0,-29" class="g20_16" />
+<path d="M317,929l30,0" class="g20_16" />
+<path d="M317,958l0,-29" class="g20_16" />
+<path d="M347,929l31,0" class="g20_16" />
+<path d="M347,958l0,-29" class="g20_16" />
+<path d="M378,929l30,0" class="g20_16" />
+<path d="M378,958l0,-29" class="g20_16" />
+<path d="M408,929l30,0" class="g20_16" />
+<path d="M408,958l0,-29" class="g20_16" />
+<path d="M438,929l31,0" class="g20_16" />
+<path d="M438,958l0,-29" class="g20_16" />
+<path d="M469,929l30,0" class="g20_16" />
+<path d="M469,958l0,-29" class="g20_16" />
+<path d="M499,929l30,0" class="g20_16" />
+<path d="M499,958l0,-29" class="g20_16" />
+<path d="M529,929l30,0" class="g20_16" />
+<path d="M529,958l0,-29" class="g20_16" />
+<path d="M559,929l31,0" class="g20_16" />
+<path d="M559,958l0,-29" class="g20_16" />
+<path d="M590,929l30,0" class="g20_16" />
+<path d="M590,958l0,-29" class="g20_16" />
+<path d="M620,929l30,0" class="g20_16" />
+<path d="M620,958l0,-29" class="g20_16" />
+<path d="M650,929l31,0" class="g20_16" />
+<path d="M650,958l0,-29" class="g20_16" />
+<path d="M681,929l30,0" class="g20_16" />
+<path d="M681,958l0,-29" class="g20_16" />
+<path d="M711,929l31,0" class="g20_16" />
+<path d="M711,958l0,-29" class="g20_16" />
+<path d="M741,958l0,-29" class="g20_16" />
+<path d="M173,959l83,0" class="g20_16" />
+<path d="M173,988l0,-28" class="g20_16" />
+<path d="M256,959l31,0" class="g20_16" />
+<path d="M256,988l0,-28" class="g20_16" />
+<path d="M287,959l30,0" class="g20_16" />
+<path d="M287,988l0,-28" class="g20_16" />
+<path d="M317,959l30,0" class="g20_16" />
+<path d="M317,988l0,-28" class="g20_16" />
+<path d="M347,959l31,0" class="g20_16" />
+<path d="M347,988l0,-28" class="g20_16" />
+<path d="M378,959l30,0" class="g20_16" />
+<path d="M378,988l0,-28" class="g20_16" />
+<path d="M408,959l30,0" class="g20_16" />
+<path d="M408,988l0,-28" class="g20_16" />
+<path d="M438,959l31,0" class="g20_16" />
+<path d="M438,988l0,-28" class="g20_16" />
+<path d="M469,959l30,0" class="g20_16" />
+<path d="M469,988l0,-28" class="g20_16" />
+<path d="M499,959l30,0" class="g20_16" />
+<path d="M499,988l0,-28" class="g20_16" />
+<path d="M529,959l30,0" class="g20_16" />
+<path d="M529,988l0,-28" class="g20_16" />
+<path d="M559,959l31,0" class="g20_16" />
+<path d="M559,988l0,-28" class="g20_16" />
+<path d="M590,959l30,0" class="g20_16" />
+<path d="M590,988l0,-28" class="g20_16" />
+<path d="M620,959l30,0" class="g20_16" />
+<path d="M620,988l0,-28" class="g20_16" />
+<path d="M650,959l31,0" class="g20_16" />
+<path d="M650,988l0,-28" class="g20_16" />
+<path d="M681,959l30,0" class="g20_16" />
+<path d="M681,988l0,-28" class="g20_16" />
+<path d="M711,959l31,0" class="g20_16" />
+<path d="M711,988l0,-28" class="g20_16" />
+<path d="M741,988l0,-28" class="g20_16" />
+<path d="M173,989l83,0" class="g20_16" />
+<path d="M256,989l31,0" class="g20_16" />
+<path d="M287,989l30,0" class="g20_16" />
+<path d="M317,989l30,0" class="g20_16" />
+<path d="M347,989l31,0" class="g20_16" />
+<path d="M378,989l30,0" class="g20_16" />
+<path d="M408,989l30,0" class="g20_16" />
+<path d="M438,989l31,0" class="g20_16" />
+<path d="M469,989l30,0" class="g20_16" />
+<path d="M499,989l30,0" class="g20_16" />
+<path d="M529,989l30,0" class="g20_16" />
+<path d="M559,989l31,0" class="g20_16" />
+<path d="M590,989l30,0" class="g20_16" />
+<path d="M620,989l30,0" class="g20_16" />
+<path d="M650,989l31,0" class="g20_16" />
+<path d="M681,989l30,0" class="g20_16" />
+<path d="M711,989l31,0" class="g20_16" />
+<text 
+transform="matrix(0.98, 0, 0, 1, 182, 948)"
+dx="0,0,0,0,0,-0.8,0" 
+class="s7_16"
+>Base 10</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 266, 948)"
+dx="0" 
+class="s7_16"
+>0</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 296, 948)"
+dx="0" 
+class="s7_16"
+>1</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 327, 948)"
+dx="0" 
+class="s8_16"
+>2</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 357, 948)"
+dx="0" 
+class="s8_16"
+>3</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 387, 948)"
+dx="0" 
+class="s8_16"
+>4</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 418, 948)"
+dx="0" 
+class="s8_16"
+>5</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 448, 948)"
+dx="0" 
+class="s8_16"
+>6</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 478, 948)"
+dx="0" 
+class="s8_16"
+>7</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 509, 948)"
+dx="0" 
+class="s8_16"
+>8</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 539, 948)"
+dx="0" 
+class="s8_16"
+>9</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 565, 948)"
+dx="0,0" 
+class="s7_16"
+>10</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 596, 948)"
+dx="0,-1.1" 
+class="s7_16"
+>11</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 626, 948)"
+dx="0,0" 
+class="s7_16"
+>12</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 656, 948)"
+dx="0,0" 
+class="s7_16"
+>13</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 686, 948)"
+dx="0,0" 
+class="s7_16"
+>14</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 717, 948)"
+dx="0,0" 
+class="s7_16"
+>15</text>
+
+<text 
+x="182" 
+y="979" 
+dx="0,0,0,0,0,-0.8,0" 
+class="s7_16"
+>Base 16</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 266, 978)"
+dx="0" 
+class="s7_16"
+>0</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 296, 978)"
+dx="0" 
+class="s7_16"
+>1</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 327, 978)"
+dx="0" 
+class="s8_16"
+>2</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 357, 978)"
+dx="0" 
+class="s8_16"
+>3</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 387, 978)"
+dx="0" 
+class="s8_16"
+>4</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 418, 978)"
+dx="0" 
+class="s8_16"
+>5</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 448, 978)"
+dx="0" 
+class="s8_16"
+>6</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 478, 978)"
+dx="0" 
+class="s8_16"
+>7</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 509, 978)"
+dx="0" 
+class="s8_16"
+>8</text>
+
+<text 
+transform="matrix(0.98, 0, 0, 1, 539, 978)"
+dx="0" 
+class="s8_16"
+>9</text>
+
+<text 
+x="569" 
+y="979" 
+dx="0" 
+class="s7_16"
+>A</text>
+
+<text 
+x="599" 
+y="979" 
+dx="0" 
+class="s7_16"
+>B</text>
+
+<text 
+x="629" 
+y="979" 
+dx="0" 
+class="s8_16"
+>C</text>
+
+<text 
+x="659" 
+y="979" 
+dx="0" 
+class="s7_16"
+>D</text>
+
+<text 
+x="690" 
+y="979" 
+dx="0" 
+class="s8_16"
+>E</text>
+
+<text 
+x="721" 
+y="979" 
+dx="0" 
+class="s7_16"
+>F</text>
+
+<text 
+x="1591" 
+y="1019" 
+dx="0,-1.2" 
+class="s9_16"
+>31</text>
+
+<text 
+x="35" 
+y="1019" 
+dx="0,-1.1" 
+class="s9_16"
+>30</text>
+
+
+
+<!-- Any embedded fonts defined here -->
+<style type="text/css" ><![CDATA[
+
+@font-face {
+	font-family: PixelSplitter-Bold_ev;
+	src: url("fonts/PixelSplitter-Bold_ev.woff") format("woff");
+}
+
+@font-face {
+	font-family: AndaleMono_1cn;
+	src: url("fonts/AndaleMono_1cn.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Light_1by;
+	src: url("fonts/Helvetica-Light_1by.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica_1dx;
+	src: url("fonts/Helvetica_1dx.woff") format("woff");
+}
+
+@font-face {
+	font-family: PixelSplitter-Bold_1bs;
+	src: url("fonts/PixelSplitter-Bold_1bs.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica-Bold_1bu;
+	src: url("fonts/Helvetica-Bold_1bu.woff") format("woff");
+}
+
+@font-face {
+	font-family: Wingdings-Regular_1c4;
+	src: url("fonts/Wingdings-Regular_1c4.woff") format("woff");
+}
+
+@font-face {
+	font-family: Helvetica_1e3;
+	src: url("fonts/Helvetica_1e3.woff") format("woff");
+}
+
+]]></style>
+
+</svg>
