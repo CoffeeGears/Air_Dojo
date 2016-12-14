@@ -4,7 +4,7 @@
                                                                                 
 sudo apt-get install dnsmasq                                                    
                                                                                 
-cat ndmasqaccesspoint > /etc/dnsmasq.d/access_point.conf                        
+cat dmasqaccesspoint > /etc/dnsmasq.d/access_point.conf                        
 cat interfaces > /etc/network/interfaces                                        
                                                                                 
 sudo ifup wlan1                                                                 
